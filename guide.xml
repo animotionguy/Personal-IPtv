@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HBO 2 (West) (HBO2)">
+    <display-name lang="en">HBO 2 (West) (HBO2)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="en">HBO 2 HD</display-name>
+    <icon src="https://wp22-images-cz-dynamic.horizon.tv/Logos/5077.f.png" />
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <programme start="20190523014000 +0000" stop="20190523040000 +0000" channel="HBO 2 HD">
+    <title lang="en">Speed Racer</title>
+    <desc lang="en">Speed Racer je mladý automobilový závodník, který již odmalička, stejně jako jeho rodina a její firma Racer Motors, žije pouze pro superrychlá auta a svět, který se točí kolem závodních okruhů. Starší bratr Rex ho odmalička tajně brával na závodní dráhu, kde ho učil řídit. Díky němu se ze Speeda stal jeden z nejlepších současných závodníků, který dokáže s neuvěřitelnou jistotou ovládat vše, co má volant, i v těch největších rychlostech. Pomáhá mu mechanik Sparky a podporuje ho celá rodina včetně přítelkyně Trixie. Svět velkých závodů není jen o rychlosti a dovednostech řidiče. Jak Speed postupně zjišťuje, je to také svět, ve kterém se točí velké peníze, svět velkých podvodů, vydírání, manipulací s výsledky ve prospěch vlivných sponzorů, a dokonce vražd. Odmítne nabídku vlivného Alberta Roayltona, aby jezdil pro jeho firmu, stejně jako tajemného závodníka Racera X, který pracuje pro detektiva Detectora z oddělení pro hospodářskou kriminalitu a žádá, aby mu pomohl v boji s korupci(n)</desc>
+    <credits>
+      <director>Andy Wachowski</director>
+      <director>Larry Wachowski</director>
+      <actor>Emile Hirsch</actor>
+      <actor>Nicholas Elia</actor>
+      <actor>Susan Sarandonová</actor>
+      <actor>Melissa Holroyd</actor>
+      <actor>Ariel Winterová</actor>
+      <actor>Scott Porter</actor>
+      <actor>Gian Ganziano</actor>
+      <actor>Peter Fernandez</actor>
+      <actor>Harvey Friedman</actor>
+      <actor>Sadao Ueda</actor>
+      <actor>Valery Tscheplanowa</actor>
+      <actor>Sami Loris</actor>
+      <actor>Sean McDonagh</actor>
+      <actor>Kick Gurry</actor>
+      <actor>Christian Oliver</actor>
+      <actor>John Goodman</actor>
+      <actor>Vinzenz Kiefer</actor>
+      <actor>Mark Zak</actor>
+      <actor>Paulie Litt</actor>
+      <actor>Christina Ricciová</actor>
+      <actor>Julia Joyce</actor>
+      <actor>Clayton Nemrow</actor>
+      <actor>Ricky Watson</actor>
+      <actor>Brandon Robinson</actor>
+      <actor>L. Wilson</actor>
+      <actor>Matthew Fox</actor>
+      <actor>Nayo Wallace</actor>
+      <actor>Roger Allam</actor>
+      <actor>Lauren Blake</actor>
+      <actor>Cosma Hagenová</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Akční</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp17-images-cz-dynamic.horizon.tv/EventImages/215121846.p.249390c64913b342cf2789ea7a51175f2d2215f1.jpg" />
+    <rating>
+      <value>12(system=CZ)</value>
+    </rating>
+  </programme>
+  <programme start="20190523040000 +0000" stop="20190523043000 +0000" channel="HBO 2 HD">
+    <title lang="en">Máša a Medvěd</title>
+    <desc lang="en">Sledujte celou řadu zábavných příběhů o holčičce jménem Máša a jejím medvědím kamarádovi, bývalém cirkusovém artistovi. Máša je nezbedná tříletá uličnice, která žije na staré železniční stanici v lese. Zdá se, že předčasně vyspělé, divoké a nespoutané děvčátko, které se spřátelí s každým, koho potká, je jako magnet na problémy. Medvěd je laskavá otcovská postava, která se ze všech sil snaží své kamarádce pomáhat a chránit ji před úrazem. Sám se při tom však často nechtěně stává obětí jejích lumpáren. Ačkoli má medvěd rád svůj klid, stýská se mu po společných chvilkách s Mášou, když mu zrovna není nablízku. Společně s pochybnou partičkou přátelských zvířat, která si z lesa udělala svůj domov, Máša a medvěd pobaví dospělé i děti a poučí diváky o kreativitě, oddanosti a skutečném přátelství(n)</desc>
+    <credits>
+      <director>Natalya Malgina</director>
+      <actor>Alina Kukushkina</actor>
+      <actor>Boris Kutnevich</actor>
+      <actor>Angelica Keamy</actor>
+    </credits>
+    <category lang="en">Dětský</category>
+    <category lang="en">Mládežnický</category>
+    <category lang="en">Pro Děti Do 14 Let</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp20-images-cz-dynamic.horizon.tv/EventImages/195142944.p.29ae05b0714d8bbb855d3d4d80114e31922f2b66.jpg" />
+    <episode-num system="onscreen">S2 E26</episode-num>
+    <rating>
+      <value>7(system=CZ)</value>
+    </rating>
+  </programme>
+  <programme start="20190523043000 +0000" stop="20190523044500 +0000" channel="HBO 2 HD">
+    <title lang="en">Angry Birds</title>
+    <desc lang="en">Pro Angry Birds není život na Prasečím ostrově peříčko. Ruďák a jeho nebojácní opeření společníci Žluťas, Matilda, Bombas, Modrasové a Terence musí spojit síly, aby ochránili svá vejce i budoucnost před prohnanými zlými prasátky! V seriálu ANGRY BIRDS ožívají postavy a dobrodružství jedné z nejoblíbenějších her v dějinách v rámci mini epizod, které si užije celá rodina(n)</desc>
+    <credits>
+      <director>Christopher Sadler</director>
+      <director>Eric Guaglione</director>
+      <actor>Antti Pääkkönen</actor>
+      <actor>Chris Sadler</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Dětský</category>
+    <category lang="en">Mládežnický</category>
+    <category lang="en">Pro Děti Do 14 Let</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp7-images-cz-dynamic.horizon.tv/EventImages/255439865.p.cf92108736ff3bd6ed02e37c254e88c6d2fedc3c.jpg" />
+    <episode-num system="onscreen">S1 E35</episode-num>
+    <rating>
+      <value>7(system=CZ)</value>
+    </rating>
+  </programme>
+  <programme start="20190523044500 +0000" stop="20190523051000 +0000" channel="HBO 2 HD">
+    <title lang="en">Ajťáci</title>
+    <sub-title lang="en">Copak nejsme muži?</sub-title>
+    <desc lang="en">Moss se zlobí na Roye, že spotřeboval příliš mnoho svorek do sešívačky a pak se vytasí s perfektně odposlouchaným fotbalovým žargonem. Má věty včetně výslovnosti na svém počítači a umí je zpaměti. Připadá si tak jako chlapák. To se Royovi líbí a jdou chlapskou fotbalštinu vyzkoušet do hospody. Předtím ještě stačí Jen říci, že její nový známý vypadá jako kouzelník. Touto poznámkou brutálně ukončí slibný, poměrně hezký vztah. Ajťáci se v hospodě seznámí s drsnými fotbalovými fandy a octnou se s nimi dokonce na opravdovém fotbale. Tady to Moss už vzdává, Roy to táhne dál. Ráno se dopotácí do práce s kocovinou. Pak začnou nepříjemnosti. Roy veze nějakým autem své nové kámoše před jednu banku. S hrůzou vidí, že si navlékají masky a berou stenguny s krátkou hlavní. Než stačí na Mossovu radu zavolat policii, jsou za chvíli všichni v bezpečí v opuštěné plynárně. Lupiči se mezi sebou hádají a Moss vytáhne Roye na ulici. Kolem projíždí kolona policejních vozů "správné chlapy" zatknout(n)</desc>
+    <credits>
+      <director>Graham Linehan</director>
+      <actor>Chris O'Dowd</actor>
+      <actor>Richard Ayoade</actor>
+      <actor>Katherine Parkinson</actor>
+      <actor>Matt Berry</actor>
+      <actor>Paul Bazely</actor>
+      <actor>Cavan Clerkin</actor>
+      <actor>Jon Foster</actor>
+      <actor>Derek Ezenagu</actor>
+      <actor>John Hopkins</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp24-images-cz-dynamic.horizon.tv/EventImages/165887228.p.a0f5d3103ed04fbc85ae7e5304df1a26e55f0b5c.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating>
+      <value>12(system=CZ)</value>
+    </rating>
+  </programme>
+  <programme start="20190523051000 +0000" stop="20190523073000 +0000" channel="HBO 2 HD">
+    <title lang="en">Valerian a město tisíce planet</title>
+    <desc lang="en">Valerian a Loreline jsou speciální vládní agenti pro správu lidských území a jejich úkolem je udržovat pořádek v celém vesmíru. Na rozkaz ministra obrany se oba vydávají na společnou misi do ohromného mezigalaktického města Alfa, neustále se rozšiřující metropole, kde všechny vesmírné druhy mezi sebou po staletí sdílejí znalosti, objevy a kulturu. Střed města ale skrývá tajemství. Temné síly ohrožují existenci Alfy. Valerian a Laureline se musí pokusit identifikovat a zneškodnit hrozbu. Začíná nemilosrdný závod s časem. V sázce je nejen existence Města tisíce planet, ale i budoucnost celého vesmíru(n)</desc>
+    <credits>
+      <director>Luc Besson</director>
+      <actor>Cara Delevingne</actor>
+      <actor>Dane DeHaan</actor>
+      <actor>Rihannaová</actor>
+      <actor>John Goodman</actor>
+      <actor>Ethan Hawke</actor>
+      <actor>Clive Owen</actor>
+      <actor>Rutger Hauer</actor>
+      <actor>Yifan Wu</actor>
+      <actor>Emilie Livingston</actor>
+      <actor>Mathieu Kassovitz</actor>
+      <actor>Sam Spruell</actor>
+      <actor>Alexandre Nguyen</actor>
+      <actor>Herbie Hancock</actor>
+      <actor>Jonas Bloquet</actor>
+      <actor>Eric Lampaert</actor>
+      <actor>Alain Chabat</actor>
+      <actor>Sam Douglas</actor>
+      <actor>Anders Heinrichsen</actor>
+      <actor>Aurelien Gaya</actor>
+      <actor>Yun Lai</actor>
+      <actor>Roman Blomme</actor>
+      <actor>Mikael Buxton</actor>
+      <actor>Gavin Drea</actor>
+      <actor>Jean-François Lenogue</actor>
+      <actor>Tristan Robin</actor>
+      <actor>Peter Eberst</actor>
+      <actor>James Flynn</actor>
+      <actor>Andrew Tisba</actor>
+      <actor>David Clark</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Akční</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp9-images-cz-dynamic.horizon.tv/EventImages/296741124.p.6806f2728aa7e3a537e297794bd93d297aece2b4.jpg" />
+    <rating>
+      <value>12(system=CZ)</value>
+    </rating>
+  </programme>
+  <programme start="20190523073000 +0000" stop="20190523092500 +0000" channel="HBO 2 HD">
+    <title lang="en">Úžasňákovi 2</title>
+    <desc lang="en">Ve filmu Úžasňákovi 2 se vrací oblíbená rodina superhrdinů. Avšak tentokrát je hlavní hvězdou Helen, zatímco Bob zůstal v domácnosti a pomáhá Violet a Dashovi zvládat každodenní nástrahy "normálního" života. Pro všechny je to těžká změna, a těžší je o to víc, že si nikdo z rodiny neuvědomuje superschopnosti malého Jack-Jacka. Když se objeví nový padouch, který se chystá uskutečnit ďábelsky geniální plán, tak rodina a Mražoun musí najít způsob, jak se dát zase dohromady a spojit síly - což se lehko řekne a těžko udělá, i když jsou všichni doslova úžasní(n)</desc>
+    <credits>
+      <director>Brad Bird</director>
+      <actor>Craig Nelson</actor>
+      <actor>Holly Hunterová</actor>
+      <actor>Sarah Vowellová</actor>
+      <actor>Huck Milner</actor>
+      <actor>Catherine Keenerová</actor>
+      <actor>Eli Fucile</actor>
+      <actor>Bob Odenkirk</actor>
+      <actor>Samuel Jackson</actor>
+      <actor>Michael Bird</actor>
+      <actor>Sophia Bushová</actor>
+      <actor>Brad Bird</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Isabella Rosselliniová</actor>
+      <actor>Jonathan Banks</actor>
+      <actor>John Ratzenberger</actor>
+      <actor>Nicholas Bird</actor>
+      <actor>Paul Eiding</actor>
+      <actor>Barry Bostwick</actor>
+      <actor>Jere Burns</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Akční</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp14-images-cz-dynamic.horizon.tv/EventImages/322779232.p.d6f89caa000682380b5002c13a4d5f948473d6ab.jpg" />
+    <rating>
+      <value>12(system=CZ)</value>
+    </rating>
+  </programme>
+  <programme start="20190523092500 +0000" stop="20190523095000 +0000" channel="HBO 2 HD">
+    <title lang="en">Filmy a filmové hvězdy</title>
+    <desc lang="en">Nenechte si ujít nejnovější filmové novinky, zajímavé informace, exkluzivní rozhovory s celebritami, záběry ze zákulisí, prestižní filmové události, momentky z červeného koberce z celého světa, profily největších hollywoodských hvězd a mnohem více v této zábavné půlhodinové show(n)</desc>
+    <category lang="en">Zprávy</category>
+    <category lang="en">Dokumentární</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp16-images-cz-dynamic.horizon.tv/EventImages/314024757.p.b1119c76689237e8e6158b868136398a17bb1737.jpg" />
+    <episode-num system="onscreen">S11 E20</episode-num>
+  </programme>
+  <programme start="20190523095000 +0000" stop="20190523101500 +0000" channel="HBO 2 HD">
+    <title lang="en">Ajťáci</title>
+    <sub-title lang="en">Copak nejsme muži?</sub-title>
+    <desc lang="en">Moss se zlobí na Roye, že spotřeboval příliš mnoho svorek do sešívačky a pak se vytasí s perfektně odposlouchaným fotbalovým žargonem. Má věty včetně výslovnosti na svém počítači a umí je zpaměti. Připadá si tak jako chlapák. To se Royovi líbí a jdou chlapskou fotbalštinu vyzkoušet do hospody. Předtím ještě stačí Jen říci, že její nový známý vypadá jako kouzelník. Touto poznámkou brutálně ukončí slibný, poměrně hezký vztah. Ajťáci se v hospodě seznámí s drsnými fotbalovými fandy a octnou se s nimi dokonce na opravdovém fotbale. Tady to Moss už vzdává, Roy to táhne dál. Ráno se dopotácí do práce s kocovinou. Pak začnou nepříjemnosti. Roy veze nějakým autem své nové kámoše před jednu banku. S hrůzou vidí, že si navlékají masky a berou stenguny s krátkou hlavní. Než stačí na Mossovu radu zavolat policii, jsou za chvíli všichni v bezpečí v opuštěné plynárně. Lupiči se mezi sebou hádají a Moss vytáhne Roye na ulici. Kolem projíždí kolona policejních vozů "správné chlapy" zatknout(n)</desc>
+    <credits>
+      <director>Graham Linehan</director>
+      <actor>Chris O'Dowd</actor>
+      <actor>Richard Ayoade</actor>
+      <actor>Katherine Parkinson</actor>
+      <actor>Matt Berry</actor>
+      <actor>Paul Bazely</actor>
+      <actor>Cavan Clerkin</actor>
+      <actor>Jon Foster</actor>
+      <actor>Derek Ezenagu</actor>
+      <actor>John Hopkins</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp24-images-cz-dynamic.horizon.tv/EventImages/165887228.p.a0f5d3103ed04fbc85ae7e5304df1a26e55f0b5c.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating>
+      <value>12(system=CZ)</value>
+    </rating>
+  </programme>
+  <programme start="20190523101500 +0000" stop="20190523111000 +0000" channel="HBO 2 HD">
+    <title lang="en">Berlínská mise</title>
+    <sub-title lang="en">Berlínská pobočka</sub-title>
+    <desc lang="en">Desetidílné špionážní drama ze současnosti "Berlínská mise" sleduje Daniela Millera (Richard Armitage), který právě dorazil na zahraniční pobočku CIA v Berlíně. Daniel má tajné poslání - odhalit totožnost nyní slavného whistleblowera, jenž používá pseudonym Thomas Shaw. Za pomoci ostříleného agenta veterána Hectora DeJeana (Rhys Ifans) se Daniel učí, jak se vypořádat s drsným světem agenta v akci - světem konspirace, podvodných triků, stálého nebezpečí a morálních kompromisů. Zatímco proniká čím dál hlouběji do labyrintu intrik německého hlavního města a odhaluje nitky spiknutí, které vedou zpět do Washingtonu, přemítá Daniel, zda je možné zůstat po nasazení v Berlíně stejný jako dřív(n)</desc>
+    <credits>
+      <director>Joshua Marston</director>
+      <actor>Richard Armitage</actor>
+      <actor>Rhys Ifans</actor>
+      <actor>Leland Orser</actor>
+      <actor>Tamlyn Tomitaová</actor>
+      <actor>Michelle Forbesová</actor>
+      <actor>Richard Jenkins</actor>
+      <actor>William Sadler</actor>
+      <actor>Caroline Goodallová</actor>
+      <actor>Bernhard Schütz</actor>
+      <actor>Mina Tanderová</actor>
+      <actor>Claudia Michelsenová</actor>
+      <actor>Victoria Mayerová</actor>
+      <actor>Roger Ringrose</actor>
+      <actor>Kerem Can</actor>
+      <actor>Daniela Zieglerová</actor>
+      <actor>Hussi Kutlucan</actor>
+      <actor>Barry Aird</actor>
+      <actor>Christian Kerepeszki</actor>
+      <actor>Stuart Milligan</actor>
+      <actor>Rebecca Kiser</actor>
+      <actor>Kirsten Blocková</actor>
+      <actor>Mario Klischies</actor>
+      <actor>Soenke Möhring</actor>
+      <actor>Matthias Weidenhöfer</actor>
+      <actor>Douglas Russell</actor>
+      <actor>Paul Birchard</actor>
+      <actor>Hilary Connell</actor>
+      <actor>Kerry Norton</actor>
+      <actor>Golo Euler</actor>
+      <actor>Gisa Flake</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp15-images-cz-dynamic.horizon.tv/EventImages/239037690.p.ed29436e5603bbabd861e17c1b1799d12bc6c5d8.jpg" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating>
+      <value>15(system=CZ)</value>
+    </rating>
+  </programme>
+  <programme start="20190523111000 +0000" stop="20190523124000 +0000" channel="HBO 2 HD">
+    <title lang="en">Skvrny od trávy</title>
+    <desc lang="en">Snímek Grass Stains je příběhem o dospívání patnáctiletého chlapce Conrada Stevense, který vyrůstá na americkém maloměstě. Když kvůli jejich nevinnému vtípku nešťastnou náhodou zemře starší bratr Conradovy první dívky Grace Turnerové, Conrad a jeho dva nejlepší kamarádi utečou z místa nehody, aby se pokusili vyhnout zodpovědnosti. Jakmile to však udělají, Conrad je sžírán pocitem viny a vtrhne mezi Greaceinu truchlící rodinu ve snaze odčinit všechno, co pokazil. Záhy však zjistí, že se každý z členů rodiny snaží vypořádat se svou ztrátou jinak - zvláště pak Grace, která se jak po citové, tak i tělesné stránce upne ke vzkvétajícímu vztahu s Conradem. Ten se teď musí potýkat s pravdou, zatímco se snaží vyvážit výčitky svědomí s narůstající touhou po mladé dívce(n)</desc>
+    <credits>
+      <director>Kyle Wilamowski</director>
+      <actor>Kaitlyn Dever</actor>
+      <actor>Tye Sheridan</actor>
+      <actor>Annabeth Gishová</actor>
+      <actor>Paula Malcomsonová</actor>
+      <actor>Grace Kaufman</actor>
+      <actor>Beau Mirchoff</actor>
+      <actor>Ryan Lee</actor>
+      <actor>Austin Abrams</actor>
+      <actor>Bill Sage</actor>
+      <actor>Nolan Gross</actor>
+      <actor>Tyler Chase</actor>
+      <actor>Dwayne Boyd</actor>
+      <actor>Katie Adkins</actor>
+      <actor>Sope Aluko</actor>
+      <actor>Roxanne Bush</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Movie Drama</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp27-images-cz-dynamic.horizon.tv/EventImages/283835723.p.049796ded57564b4e580f6ab3df6c552ed792cb2.jpg" />
+    <rating>
+      <value>12(system=CZ)</value>
+    </rating>
+  </programme>
+  <programme start="20190523124000 +0000" stop="20190523151000 +0000" channel="HBO 2 HD">
+    <title lang="en">Avengers: Infinity War</title>
+    <desc lang="en">Snímek Avengers: Infinity War završuje neuvěřitelnou desetiletou cestu filmovým světem studia Marvel a přináší na stříbrná plátna nejsmrtonosnější a nejultimátnější válku všech dob. Avengers a jejich superhrdinští spojenci musí riskovat úplně vše a pokusit se porazit mocného Thanose dřív, než jeho bleskový útok, provázený ničením a zkázou, zničí vesmír jednou provždy(n)</desc>
+    <credits>
+      <director>Anthony Russo</director>
+      <director>Joe Russo</director>
+      <actor>Karen Gillan</actor>
+      <actor>Tessa Thompsonová</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Scarlett Johanssonová</actor>
+      <actor>Tom Hiddleston</actor>
+      <actor>Pom Klementieff</actor>
+      <actor>Elizabeth Olsenová</actor>
+      <actor>Chris Hemsworth</actor>
+      <actor>Tom Holland</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Chris Evans</actor>
+      <actor>Robert Jr.</actor>
+      <actor>Sebastian Stan</actor>
+      <actor>Chadwick Boseman</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Zoe Saldanaová</actor>
+      <actor>Cobie Smuldersová</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Dave Batista</actor>
+      <actor>Jon Favreau</actor>
+      <actor>Danai Gurira</actor>
+      <actor>Paul Bettany</actor>
+      <actor>Paul Rudd</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Vin Diesel</actor>
+      <actor>Bradley Cooper</actor>
+      <actor>Peter Dinklage</actor>
+      <actor>Gwyneth Paltrowová</actor>
+      <actor>Benicio Toro</actor>
+      <actor>Don Cheadle</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Akční</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp6-images-cz-dynamic.horizon.tv/EventImages/312707107.p.329fa0a10096d46b5fa79101cfdc06453d6e7fd8.jpg" />
+    <rating>
+      <value>12(system=CZ)</value>
+    </rating>
+  </programme>
+  <programme start="20190523151000 +0000" stop="20190523155500 +0000" channel="HBO 2 HD">
+    <title lang="en">Roswell: Nové Mexiko</title>
+    <desc lang="en">Liz Ortechová, rodačka z Roswellu v Novém Mexiku, se před deseti lety po smrti své milované starší sestry rozhodla všechno opustit. Její otec však onemocněl a ona se proto zdráhavě vrací do této turistické atrakce, aby se k němu nastěhovala. Po příjezdu se Liz znovu shledá se svou pubertální platonickou láskou Maxem Evansem, který nyní pracuje u roswellské policie. Chemie mezi nimi je okamžitá a elektrizující. Liz však záhy odhalí šokující pravdu - Max je mimozemšťan, který po celý život skrýval nejen své nadpřirozené schopnosti, ale i ty, jimiž oplývají jeho nepozemští sourozenci Isobel a Michael. Zatímco se oba po deseti letech odloučení sbližují, pro Liz je těžké tajit pravdu před nejlepší kamarádkou Marií De Lucou a důvěřivým bývalým přítelem ze střední dr. Kylem Valentim. Mezitím vyvstává nebezpečí, že odvěké vládní spiknutí, v jehož čele stojí vrchní rotmistr Jesse Manes, v kombinaci s politikou strachu a nenávisti, která se v Roswellu rozbujela, vynese na světlo pravdu o..(n)</desc>
+    <date>2019</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp10-images-cz-dynamic.horizon.tv/EventImages/325561359.p.cdc7edaacc5e281f3b967ce9c954f23763c0ac31.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>15(system=CZ)</value>
+    </rating>
+  </programme>
+  <programme start="20190523155500 +0000" stop="20190523170000 +0000" channel="HBO 2 HD">
+    <title lang="en">Gentleman Jack</title>
+    <desc lang="en">V roce 1832, po letech ve znamení exotických cest a budování společenského renomé, se Anna Listerová vrací do Halifaxu v Západním Yorkshire, odhodlaná zvrátit osud chátrajícího sídla Shibden Hall zděděného po předcích. Aby oprášila jeho zašlou slávu, musí znovu otevřít své uhelné doly a dobře se provdat. Tohle ale není jen další "regentská romance". Charismatická, cílevědomá a náruživá Anne Listerová - dáma od hlavy až k patě oděná v černé, která díky svému šarmu pronikla mezi společenskou smetánku - si nemá v úmyslu najít manžela. Aby zůstala sama sebou, plánuje si vzít ženu. A ne jen tak ledajakou - žena, za kterou se Anne Listerová provdá, musí být opravdu bohatá. Každá část Annina příběhu vychází z historických skutečností zachycených v jejích denících. Ty sestávají ze čtyř milionů slov a popisují ty nejintimnější detaily jejího života, kdysi ukryté pod tajným kódem, který byl nyní prolomen(n)</desc>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-cz-dynamic.horizon.tv/EventImages/325300989.p.db853813bb1c4780cc18c1f2fb25c12eab69e06b.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>15(system=CZ)</value>
+    </rating>
+  </programme>
+  <programme start="20190523170000 +0000" stop="20190523173000 +0000" channel="HBO 2 HD">
+    <title lang="en">Barry</title>
+    <desc lang="en">Černá komedie BARRY v hlavní roli s Billem Haderem pojednává o deprimovaném, podřadném nájemném zabijákovi ze Středozápadu. Osamělý Barry, který je nespokojený se svým životem, zdráhavě odjíždí do Los Angeles, kde má zavraždit začínajícího herce. Barry sleduje svou oběť na lekci herectví, kde je okamžitě okouzlen a přijat skupinkou nadějných talentů losangeleské divadelní scény. Chce začít nový život herce, ale jeho zločinecká minulost ho drží ve svých spárech. Dokáže najít mezi oběma světy rovnováhu?(n)</desc>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-cz-dynamic.horizon.tv/EventImages/322839645.p.0b942ca5a8b90cd588303f9bb106dccc3508a03f.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating>
+      <value>12(system=CZ)</value>
+    </rating>
+  </programme>
+  <programme start="20190523173000 +0000" stop="20190523191000 +0000" channel="HBO 2 HD">
+    <title lang="en">Kolo zázraků</title>
+    <desc lang="en">V 50. letech 20. století je v zábavním parku na Coney Islandu velmi rušno. Ginny je nešťastná bývalá herečka, která nyní pracuje jako servírka. Její manžel Humpty se rád napije, pak bývá hrubý a před manželkou často dává přednost rybaření. Nedávno se k nim nastěhovala Humptyho dcera z prvního manželství, Carolina, která má sice s otcem problematický vztah, ale zároveň se potřebuje ukrýt před gangstery i FBI. Když Ginny potká na pláži pohledného mladého plavčíka Mickeyho, velmi rychle podlehne jeho kouzlu a zamiluje se. V jejich milostné romanci nachází záchranu od všech chyb a zklamání z vlastního života. Stejně tak přítomnost znovunalezené dcery Caroliny má blahodárný vliv na Humptyho chování a on znovu zažívá radost. Ale Ginniny a Humptyho opojné naděje na lepší život se začínají hroutit, když se Carolina poprvé setká s Mickeym(n)</desc>
+    <credits>
+      <director>Woody Allen</director>
+      <actor>James Belushi</actor>
+      <actor>Juno Templeová</actor>
+      <actor>Justin Timberlake</actor>
+      <actor>Kate Winsletová</actor>
+      <actor>Max Casella</actor>
+      <actor>Jack Gore</actor>
+      <actor>David Krumholtz</actor>
+      <actor>Robert Kirk</actor>
+      <actor>Tommy Nohilly</actor>
+      <actor>Tony Sirico</actor>
+      <actor>Steve Schirripa</actor>
+      <actor>John Doumanian</actor>
+      <actor>Tom Guiry</actor>
+      <actor>Gregory Dann</actor>
+      <actor>Bobby Slayton</actor>
+      <actor>Geneva Carrová</actor>
+      <actor>Ed Jewett</actor>
+      <actor>Debi Mazarová</actor>
+      <actor>Danielle Ferlandová</actor>
+      <actor>Maddie Cormanová</actor>
+      <actor>Jacob Berger</actor>
+      <actor>Jenna Sternová</actor>
+      <actor>John Mainieri</actor>
+      <actor>Marshall Axt</actor>
+      <actor>Candice Buenrostro</actor>
+      <actor>Marko Caka</actor>
+      <actor>John Druzba</actor>
+      <actor>Neil Fleischer</actor>
+      <actor>Hannah Hartwell</actor>
+      <actor>Matthew Maher</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Movie Drama</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp5-images-cz-dynamic.horizon.tv/EventImages/314135485.p.896d5b25c842d9ee7a57224886f120dbaa5a00f9.jpg" />
+    <rating>
+      <value>12(system=CZ)</value>
+    </rating>
+  </programme>
+  <programme start="20190523191000 +0000" stop="20190523205000 +0000" channel="HBO 2 HD">
+    <title lang="en">Panický záchvat</title>
+    <desc lang="en">Manželský pár vracející se z exotické dovolené, svůdná rusovláska tající své bizarní zaměstnání, nevěsta v pokročilém stadiu těhotenství nebo mladý muž posedlý počítačovou hrou a jeho matka se stejným vztahem k domácím zvířatům. Šest příběhů o obyčejných lidech v extrémních situacích připomíná tu zlý sen, tu opravdu povedený kanadský žert(n)</desc>
+    <credits>
+      <director>Pawel Maslona</director>
+      <actor>Artur Zmijewski</actor>
+      <actor>Dorota Segdaová</actor>
+      <actor>Nicolas Bro</actor>
+      <actor>Magdalena Poplawska</actor>
+      <actor>Grzegorz Damiecki</actor>
+      <actor>Julia Wyszynska</actor>
+      <actor>Malgorzata Hajewska</actor>
+      <actor>Bartlomiej Kotschedoff</actor>
+      <actor>Aleksandra Adamska</actor>
+      <actor>Aleksandra Pisula</actor>
+      <actor>Andrzej Konopka</actor>
+      <actor>Adam Nawojczyk</actor>
+      <actor>Roman Gancarczyk</actor>
+      <actor>Olaf Marchwicki</actor>
+      <actor>Nicolas Przygoda</actor>
+      <actor>Dagmara Bak</actor>
+      <actor>Miroslaw Haniszewski</actor>
+      <actor>Anna Janik</actor>
+      <actor>Ewa Kaimová</actor>
+      <actor>Katarzyna Kwiatkowska</actor>
+      <actor>Slawomir Rokita</actor>
+      <actor>Anna Romantowskaová</actor>
+      <actor>Zdzislaw Wardejn</actor>
+      <actor>Jan Wojtyński</actor>
+      <actor>Tomasz Zietek</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Komedie</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp17-images-cz-dynamic.horizon.tv/EventImages/307462571.p.e0712ddfb5da3eed2eb4497caf44acb5b2eee003.jpg" />
+  </programme>
+  <programme start="20190523205000 +0000" stop="20190523213500 +0000" channel="HBO 2 HD">
+    <title lang="en">Šerifská hvězda</title>
+    <desc lang="en">Jim je i se svým opileckým alter egem Jack Devlin sžírán zmatkem, který jej provází už od doby, kdy opustil Velkou Británii. Ve druhé řadě seriálu "Šerifská hvězda" nalézáme našeho nepravděpodobného hrdinu přesně tam, kde jsme jej v předchozí sérii zanechali - odříznutého od světa v odlehlé horské pustině, kde se společně se svou truchlící a zdrcenou rodinou snaží vyrovnat s jejich utrpením. Aně, která se snaží skrýt před vlastními rodiči, poskytne útočiště bohabojná rodina Nickelových, v jejímž čele stojí pastor Johan, jeho žena Sarah a dcera Rosa, a schová ji u Ammonitů - náboženské komunity poblíž městečka Little Big Bear. Mírumilovná rodina z prérie však ukrývá vlastní tajemství a Anna je zanedlouho nucena hledat pomoc u svého otce, neboť vyvstane mnohem děsivější hrozba. Pokud chce Jim najít způsob, jak zachránit rodinu a odčinit své hříchy, musí vytvořit znepokojivé spojenectví v boji o odpuštění(n)</desc>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Krimi</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp17-images-cz-dynamic.horizon.tv/EventImages/327891078.p.4dc81f7a7812d875ecb41d98d27251f0473c843c.jpg" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating>
+      <value>15(system=CZ)</value>
+    </rating>
+  </programme>
+  <programme start="20190523213500 +0000" stop="20190523231500 +0000" channel="HBO 2 HD">
+    <title lang="en">Čtyři pokoje</title>
+    <desc lang="en">Na Silvestra se každý baví jak umí!Dvanáct nemožných hostů. Čtyři skandální požadavky. A jeden osamělý poslíček prožívající nejdivočejší Silvestr svého života. Čtyři pokoje jednoho starého hollywoodského hotelu, čtyři příběhy a čtyři režiséři, kteří si sami napsali scénář. Takový je základ vynikající komedie Čtyři pokoje, jejímž spojovacím článkem je kromě magické čtyřky, místa (hotel Mon Signor) a času (silvestrovská noc) postava Teda - recepčního a hotelového poslíčka, který při své první službě prožívá trpkou noční můru. Hosté hotelu - a zejména oněch čtyř pokojů - jsou totiž příšerní, dle nepsaného zákona ale mají vždycky pravdu a navíc se jim musí vyhovět, byť by šlo o ta nejneuvěřitelnější přání(n)</desc>
+    <credits>
+      <director>Allison Andersová</director>
+      <director>Alexandre Rockwell</director>
+      <director>Robert Rodriguez</director>
+      <director>Quentin Tarantino</director>
+      <actor>Sammi Davisová</actor>
+      <actor>Amanda Cadenetová</actor>
+      <actor>Valeria Golinová</actor>
+      <actor>Madonna</actor>
+      <actor>Ione Skyeová</actor>
+      <actor>Lili Taylorová</actor>
+      <actor>Alicia Wittová</actor>
+      <actor>Jennifer Bealsová</actor>
+      <actor>David Proval</actor>
+      <actor>Antonio Banderas</actor>
+      <actor>Lana McKissacková</actor>
+      <actor>Patricia Vonneová</actor>
+      <actor>Tamlyn Tomitaová</actor>
+      <actor>Danny Verduzco</actor>
+      <actor>Salma Hayeková</actor>
+      <actor>Paul Calderon</actor>
+      <actor>Quentin Tarantino</actor>
+      <actor>Lawrence Bender</actor>
+      <actor>Kathy Griffinová</actor>
+      <actor>Marc Lawrence</actor>
+      <actor>Paul Skemp</actor>
+      <actor>Marisa Tomeiová</actor>
+      <actor>Tim Roth</actor>
+      <actor>Kimberly Blairová</actor>
+      <actor>Bruce Willis</actor>
+    </credits>
+    <date>1995</date>
+    <category lang="en">Komedie</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp24-images-cz-dynamic.horizon.tv/EventImages/132791520.p.b1c7d79fb33c80ed2503ac62507f3a940a5006a7.jpg" />
+    <rating>
+      <value>12(system=CZ)</value>
+    </rating>
+  </programme>
+</tv>

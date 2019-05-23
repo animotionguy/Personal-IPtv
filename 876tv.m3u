@@ -8,7 +8,7 @@ https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/abc-news-logo.png" group-title="US News",ABC News Live
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Animal_Planet.jpg" group-title="US Documentary",ANIMAL PLANET HD
-http://voxtv.dynns.com:8000/USA/USA/2254
+http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1 tvg-id="bet.us" tvg-name="BET US" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/bet-269x151.png" group-title="US",BET
 http://espn.tmedia.me/cache/bet.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="	Bloomberg TV US" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bloomberg_tv_us.jpg" group-title="US",BLOOMBERG (US)
