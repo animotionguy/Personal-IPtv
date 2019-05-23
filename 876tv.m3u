@@ -3,9 +3,9 @@
 http://161.0.157.9/PLTV/88888888/224/3221226726/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.wp.com/wp-content/themes/vip/bigtennetwork/img/logo.png" group-title="US",BTN
 http://161.0.157.5/PLTV/88888888/224/3221226177/index.m3u8
-#EXTINF:-1 tvg-id="	ABC.us" tvg-name="ABC" tvg-logo=""http://logonoid.com/images/abc-news-logo.png" group-title="US",ABC
+#EXTINF:-1 tvg-id="	ABC.us" tvg-name="ABC" tvg-logo="http://logonoid.com/images/abc-news-logo.png" group-title="US",ABC
 http://voxtv.dynns.com:8000/USA/USA/2248
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""http://logonoid.com/images/abc-news-logo.png" group-title="US News",ABC News Live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/abc-news-logo.png" group-title="US News",ABC News Live
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Animal_Planet.jpg" group-title="US Documentary",ANIMAL PLANET HD
 http://voxtv.dynns.com:8000/USA/USA/2254
@@ -19,7 +19,7 @@ http://voxtv.dynns.com:8000/USA/USA/2258
 http://voxtv.dynns.com:8000/USA/USA/2258
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/comedy-central-269x151.png" group-title="US",Comedy Central
 http://espn.tmedia.me/cache/cc.m3u8
-#EXTINF:-1 tvg-id="	DiscoveryChannel.us" tvg-name="Discovery Channel US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Discovery_channel.png" group-title="Documentary",Discovery Channel HD
+#EXTINF:-1 tvg-id="	DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Discovery_channel.png" group-title="Documentary",Discovery Channel HD
 http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1 tvg-id="	DiscoveryChannel.us" tvg-name="Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Casi_Discovery_HD.png" group-title="Documentary",Discovery HD
 http://voxtv.dynns.com:8000/USA/USA/2280
