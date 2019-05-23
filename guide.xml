@@ -10,6 +10,11 @@
     <icon src="https://tvtv.us/tvm/i/image/station/100x100/hbo2.png" />
     <url>http://www.tvtv.us</url>
   </channel>
+  <channel id="BET - Eastern Feed">
+    <display-name lang="en">BET - Eastern Feed</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/bettv.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
   <programme start="20190523015500 +0000" stop="20190523030000 +0000" channel="HBO 2 - Pacific Feed">
     <title lang="en">Chernobyl</title>
     <desc lang="en">This series dramatizes the Chernobyl nuclear accident(n)</desc>
@@ -2168,6 +2173,1874 @@
     <category lang="en">Drama</category>
     <rating system="US">
       <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190523010000 +0000" stop="20190523033500 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">South Central</sub-title>
+    <desc lang="en">A veteran gang member is determined to spare his son from the ravages of gang life(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190523033500 +0000" stop="20190523040800 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Martin Gets Paid</sub-title>
+    <desc lang="en">While auditioning for a TV show, Martin learns that he needs an audition tape.  Although the tape doesn't turn out as planned, Martin is offered a job he can't refuse(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523040800 +0000" stop="20190523044200 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Break Up to Make Up</sub-title>
+    <desc lang="en">Martin tries to spend more time with Gina to help their relationship, but Gina is busy(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523044200 +0000" stop="20190523051500 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">The Closer I Get to You</sub-title>
+    <desc lang="en">As a last-minute fill in, Martin starts giving love advice on the show(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523051500 +0000" stop="20190523054900 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Movin' on In</sub-title>
+    <desc lang="en">Martin and Gina move back in together, but there are too many belongings to fit(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523054900 +0000" stop="20190523062200 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Momma's Baby, Martin's Maybe</sub-title>
+    <desc lang="en">When Gina's mother comes to visit, Martin is excited at his opportunity to impress her(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523062200 +0000" stop="20190523065600 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Whole Lotto Trouble</sub-title>
+    <desc lang="en">When Martin wins the lottery, he spends a lot of the money before claiming his prize(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523065600 +0000" stop="20190523072800 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Steve Harvey Show</title>
+    <sub-title lang="en">Brush With Greatness</sub-title>
+    <desc lang="en">Romeo uses Sophia's painting to win an art contest(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523072800 +0000" stop="20190523080000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Steve Harvey Show</title>
+    <sub-title lang="en">Loose Lips Sink Friendships</sub-title>
+    <desc lang="en">Dating problems plague everyone at the homecoming dance(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523080000 +0000" stop="20190523083000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <sub-title lang="en">Get Up, Stand Up</sub-title>
+    <desc lang="en">Fancy needs a new kitchen countertop installed in time for Nikki's bridal shower, which Fancy reluctantly agrees to host. Meanwhile, Braxton dreads attending an awards banquet in his honour because he can't find a date(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523083000 +0000" stop="20190523090000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <sub-title lang="en">Super Ego</sub-title>
+    <desc lang="en">Fancy and her friends are kicked out of Jamie's NFL playoff party and leave the hotel with football's Lawrence Taylor and Charles Woodson. When Jamie catches up with the girls at another bash, his big mouth leads him to an athletic challenge(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523090000 +0000" stop="20190523093000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <sub-title lang="en">Family Business</sub-title>
+    <desc lang="en">Jamie writes a jingle for a commercial promoting the King's Tower and he charges his aunt and uncle for his services, which jeopardizes his free lodging at the hotel(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523093000 +0000" stop="20190523100000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <sub-title lang="en">Friendly Fire</sub-title>
+    <desc lang="en">Jamie is promoted to supervisor at Jingles 2000. His first task: fire an incompetent writer who is also one of his friends. Meanwhile, a flu epidemic hits the hotel staff(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523100000 +0000" stop="20190523110000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">BET Rejoices</title>
+    <category lang="en">Religious</category>
+  </programme>
+  <programme start="20190523110000 +0000" stop="20190523113100 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <desc lang="en">A streetwise Philadelphia teenager is sent to live with his rich relatives in Bel Air, California(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523113100 +0000" stop="20190523120300 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <desc lang="en">A streetwise Philadelphia teenager is sent to live with his rich relatives in Bel Air, California(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523120300 +0000" stop="20190523123900 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Meet the Browns</title>
+    <desc lang="en">Leroy Brown inherited a dilapidated house from his deceased father and turned it into a home for seniors(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523123900 +0000" stop="20190523131400 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Meet the Browns</title>
+    <desc lang="en">Leroy Brown inherited a dilapidated house from his deceased father and turned it into a home for seniors(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523131400 +0000" stop="20190523135000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Meet the Browns</title>
+    <desc lang="en">Leroy Brown inherited a dilapidated house from his deceased father and turned it into a home for seniors(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523135000 +0000" stop="20190523142100 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <desc lang="en">An Atlanta fireman's life is turned upside down when he and his two kids are forced to move in with his parents(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523142100 +0000" stop="20190523145200 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <desc lang="en">An Atlanta fireman's life is turned upside down when he and his two kids are forced to move in with his parents(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523145200 +0000" stop="20190523152300 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <desc lang="en">An Atlanta fireman's life is turned upside down when he and his two kids are forced to move in with his parents(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523152300 +0000" stop="20190523155500 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <desc lang="en">An Atlanta fireman's life is turned upside down when he and his two kids are forced to move in with his parents(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523155500 +0000" stop="20190523162600 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523162600 +0000" stop="20190523165700 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523165700 +0000" stop="20190523172700 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523172700 +0000" stop="20190523175700 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523175700 +0000" stop="20190523182600 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523182600 +0000" stop="20190523185600 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523185600 +0000" stop="20190523192600 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523192600 +0000" stop="20190523223300 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Set It Off</sub-title>
+    <desc lang="en">Four women, from the Los Angeles projects, decide to beat the system by robbing banks(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190523223300 +0000" stop="20190524010300 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">South Central</sub-title>
+    <desc lang="en">A veteran gang member is determined to spare his son from the ravages of gang life(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190524010300 +0000" stop="20190524035500 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">A Madea Christmas</sub-title>
+    <desc lang="en">Madea gets roped into helping a friend surprise her daughter with a visit to the country over the holidays. Secrets are revealed and relationships are tested as Christmas approaches(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524035500 +0000" stop="20190524042600 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">The Ex-Files</sub-title>
+    <desc lang="en">Gina and Martin go out to dinner with their ex-lovers to see who would be more jealous(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524042600 +0000" stop="20190524045600 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">All the Players Came</sub-title>
+    <desc lang="en">Martin organizes a fundraiser to help save a failing theater in the neighborhood(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524045600 +0000" stop="20190524052700 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Best and Bester</sub-title>
+    <desc lang="en">Tommy and Cole try to outdo each other in the hopes of being chosen as Martin's best man(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524052700 +0000" stop="20190524055700 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">High Noon</sub-title>
+    <desc lang="en">A convict named 'Mad Dog No Good' is getting out of jail and wants to meet Martin(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524055700 +0000" stop="20190524062800 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Mother of the Bride</sub-title>
+    <desc lang="en">Martin and Gina's mother clash over whom to hire as a wedding planner(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524062800 +0000" stop="20190524065800 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">C.R.E.A.M.</sub-title>
+    <desc lang="en">Martin and Gina open a restaurant without any knowledge of how to run a business(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524065800 +0000" stop="20190524072900 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Steve Harvey Show</title>
+    <sub-title lang="en">Papa Don't Take No Mess</sub-title>
+    <desc lang="en">Romeo's father takes him out of Steve's class(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524072900 +0000" stop="20190524080000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Steve Harvey Show</title>
+    <sub-title lang="en">The Play's Not the Thing</sub-title>
+    <desc lang="en">Sophia plays Juliet in 'Romeo and Juliet,' but Romeo is not a Romeo(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524080000 +0000" stop="20190524083000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <sub-title lang="en">Home Suite Home</sub-title>
+    <desc lang="en">Jamie joyfully moves into his own bachelor pad, but when Fancy starts decorating it for him, he begins to feel a little crowded by her constant presence(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524083000 +0000" stop="20190524090000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <sub-title lang="en">Behind the Jingle</sub-title>
+    <desc lang="en">The pressures of being a supervisor affects the quality of Jamie's jingles, so he passes off one of Mouse's ideas as his own, which leads to a guilt-filled dream about his future(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524090000 +0000" stop="20190524093000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <sub-title lang="en">Partners fo' Life</sub-title>
+    <desc lang="en">To cover the medical costs of an injured friend, Jamie signs insurance forms that claim he and his friend are life partners, which lead to a misinterpreted party invitation(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524093000 +0000" stop="20190524100000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <sub-title lang="en">Hot Cocoa on a Cold Evening</sub-title>
+    <desc lang="en">Fancy fulfills a fantasy for Jamie by waiting on him hand and foot, and he begins to prefer his dream lover to the real thing. He expects his girlfriend to pamper him continually, which leads to an embarrassing situation during a business dinner(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524100000 +0000" stop="20190524110000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">BET Rejoices</title>
+    <category lang="en">Religious</category>
+  </programme>
+  <programme start="20190524110000 +0000" stop="20190524113200 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <desc lang="en">A streetwise Philadelphia teenager is sent to live with his rich relatives in Bel Air, California(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524113200 +0000" stop="20190524120400 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <desc lang="en">A streetwise Philadelphia teenager is sent to live with his rich relatives in Bel Air, California(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524120400 +0000" stop="20190524124000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Meet the Browns</title>
+    <desc lang="en">Leroy Brown inherited a dilapidated house from his deceased father and turned it into a home for seniors(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524124000 +0000" stop="20190524131600 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Meet the Browns</title>
+    <desc lang="en">Leroy Brown inherited a dilapidated house from his deceased father and turned it into a home for seniors(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524131600 +0000" stop="20190524135200 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Meet the Browns</title>
+    <desc lang="en">Leroy Brown inherited a dilapidated house from his deceased father and turned it into a home for seniors(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524135200 +0000" stop="20190524142300 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <desc lang="en">An Atlanta fireman's life is turned upside down when he and his two kids are forced to move in with his parents(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524142300 +0000" stop="20190524145400 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <desc lang="en">An Atlanta fireman's life is turned upside down when he and his two kids are forced to move in with his parents(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524145400 +0000" stop="20190524152500 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <desc lang="en">An Atlanta fireman's life is turned upside down when he and his two kids are forced to move in with his parents(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524152500 +0000" stop="20190524155600 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <desc lang="en">An Atlanta fireman's life is turned upside down when he and his two kids are forced to move in with his parents(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524155600 +0000" stop="20190524162700 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524162700 +0000" stop="20190524165700 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524165700 +0000" stop="20190524172800 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524172800 +0000" stop="20190524200000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">A Madea Christmas</sub-title>
+    <desc lang="en">Madea gets roped into helping a friend surprise her daughter with a visit to the country over the holidays. Secrets are revealed and relationships are tested as Christmas approaches(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524200000 +0000" stop="20190524203000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Black-ish</title>
+    <sub-title lang="en">Parental Guidance</sub-title>
+    <desc lang="en">Dre, determined to make up for the no-frills, last-minute wedding he and Bow had, organizes an amazing vow renewal for their 15th anniversary, but when Bow's hippie-dippy parents show up unannounced, bombshells are dropped and old disagreements re-ignite(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524203000 +0000" stop="20190524210000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Black-ish</title>
+    <sub-title lang="en">Sex, Lies and Vasectomies</sub-title>
+    <desc lang="en">Bow learns from her colleague that Dre never had the vasectomy a few years back that was supposedly scheduled, so she decides to see if he\u2019ll come clean and tell the truth(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524210000 +0000" stop="20190524213000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Black-ish</title>
+    <sub-title lang="en">The Real World</sub-title>
+    <desc lang="en">When Bow reconnects with her college friends on Facebook, she invites them over for an elaborate dinner party and tries to impress them. On the night of the party, Dre ends up learning a lot of new information about Bow's past(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524213000 +0000" stop="20190524220000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Black-ish</title>
+    <sub-title lang="en">Switch Hitting</sub-title>
+    <desc lang="en">When super cool and white exec Jay Sloane challenges Dre over his street cred and picks inept Charlie for a big urban market account, Dre finds himself questioning his 'blackness.' Pops gets a letter from the IRS and fears the worst(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524220000 +0000" stop="20190524223000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Black-ish</title>
+    <sub-title lang="en">The Peer-ent Trap</sub-title>
+    <desc lang="en">Teenager Zoey goes through a mini-rebellion phase by pushing boundaries and acting out. Dre wants to lay down the law while Bow insists on a softer approach like her mom did with her(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524223000 +0000" stop="20190524230000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Black-ish</title>
+    <sub-title lang="en">Please Don't Ask, Please Don't Tell</sub-title>
+    <desc lang="en">Dre's sister, Rhonda, is in town for Mother's Day. Although she hasn't come out to the family, everyone knows she's gay except Ruby and Bow thinks Dre should tell her the truth(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524230000 +0000" stop="20190524233000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Black-ish</title>
+    <sub-title lang="en">Elephant in the Room</sub-title>
+    <desc lang="en">Liberals Dre and Bow go ballistic when Junior declares he's joined the Young Republican Club to impress a girl (ironically named Hillary). Meanwhile, everyone teases Zoey when she finds out she needs glasses(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524233000 +0000" stop="20190525000000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Black-ish</title>
+    <sub-title lang="en">Pops' Pops' Pops</sub-title>
+    <desc lang="en">Jack and Diane look for clues about their roots for their class assignment, a history of the Johnson family. When they can't find anything out about the family's past, Pops comes to the rescue with the colourful story(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525000000 +0000" stop="20190525003000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Black-ish</title>
+    <sub-title lang="en">THE Word</sub-title>
+    <desc lang="en">Jack performs the song 'Gold Digger' at a school talent show and when he sings a lyric that includes THE word, it leads to his possible expulsion from school(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525003000 +0000" stop="20190525010000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Black-ish</title>
+    <sub-title lang="en">Dr. Hell No</sub-title>
+    <desc lang="en">After Dre gets his yearly physical and comes home traumatized, Pops explains his generation's strong aversion towards healthcare and admits that he hasn't seen a doctor in years(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525010000 +0000" stop="20190525020400 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Games People Play</title>
+    <sub-title lang="en">To Live and Lie in L.A.</sub-title>
+    <desc lang="en">Vanessa feels guilty after being with Bryce. Nia struggles to remember a drunken night on the town with Laila. Eric makes a surprise visit. Marcus wants to start over with Vanessa(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190525020400 +0000" stop="20190525030700 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Ladies Night</title>
+    <sub-title lang="en">Hot Coko</sub-title>
+    <desc lang="en">Salt N Pepa quickly realize their Vegas Residency hasn't gotten the attention it needs as major train wrecks pop up at their dress rehearsal. SWV must prove themselves in Dallas if they hope to continue building back towards a full Ladies Night Tour(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190525030700 +0000" stop="20190525034000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Wedding Bell Blues</sub-title>
+    <desc lang="en">Exasperated with their bickering friends and feuding relatives, Martin and Gina sneak away on the night before their wedding(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525034000 +0000" stop="20190525041400 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Love Is a Beach</sub-title>
+    <desc lang="en">Martin and Gina escape the pandemonium at home and finally have the perfect wedding ceremony(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525041400 +0000" stop="20190525044800 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Martin in the Corner Pocket</sub-title>
+    <desc lang="en">The honeymoon is over for Gina when Martin stays out one night, playing pool and getting hustled until he loses even the clothes off his back(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525044800 +0000" stop="20190525052200 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Kill Him with Kindness</sub-title>
+    <desc lang="en">Martin thinks Gina wants to kill him for life insurance money(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525052200 +0000" stop="20190525055500 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Blow, Baby, Blow</sub-title>
+    <desc lang="en">When music producer Biggie Smalls comes to town, everybody wants to be a star(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525055500 +0000" stop="20190525062600 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Ring a Ding, Ding, Ding Gone</sub-title>
+    <desc lang="en">Martin takes off his wedding ring when his pals complain that it scares off women, but he's the frightened one when he has to explain its loss to Gina(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525062600 +0000" stop="20190525065800 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Love T.K.O.</sub-title>
+    <desc lang="en">Martin and Gina's romantic weekend gets interrupted by everyone else's love woes(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525065800 +0000" stop="20190525072900 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Steve Harvey Show</title>
+    <sub-title lang="en">Big Brothers</sub-title>
+    <desc lang="en">Cedric convinces Steve to become a Big Brother(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525072900 +0000" stop="20190525080000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Steve Harvey Show</title>
+    <sub-title lang="en">Hi-Top Reunion</sub-title>
+    <desc lang="en">Steve re-forms his old vocal group for an awards show performance(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525080000 +0000" stop="20190525083000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <sub-title lang="en">Rollin' in the Dough</sub-title>
+    <desc lang="en">Jamie advises Braxton's financial group to invest in a doughnut franchise, but Braxton balks at the idea, causing the other members of the group to kick him out(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525083000 +0000" stop="20190525090000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <sub-title lang="en">Jamie in the Middle</sub-title>
+    <desc lang="en">Jamie works on a jingle with Method Man and Redman and they both seek Jamie's help in courting Nicole, but she doesn't date rappers(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525090000 +0000" stop="20190525093000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <sub-title lang="en">Musical Chairs</sub-title>
+    <desc lang="en">Jamie sings with Nicole at a nightclub, which rekindles his interests in a career in music, despite Fancy's misgivings. Jamie later agrees to perform with Nicole again after they are asked back for another gig(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525093000 +0000" stop="20190525100000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <sub-title lang="en">Road Trip</sub-title>
+    <desc lang="en">Nicole kisses Jamie on the stage before they perform a gig in Las Vegas, a trip Fancy refused to join them on. Fancy then makes a surprise visit to Jamie's hotel room only to find that he is sharing it with Nicole(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525100000 +0000" stop="20190525110000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">BET Rejoices</title>
+    <category lang="en">Religious</category>
+  </programme>
+  <programme start="20190525110000 +0000" stop="20190525113000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <sub-title lang="en">Payneful Realization</sub-title>
+    <desc lang="en">A multi-generational family lives under one roof together(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525113000 +0000" stop="20190525120300 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <sub-title lang="en">Trial and Tribulation</sub-title>
+    <desc lang="en">A multi-generational family lives under one roof together(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525120300 +0000" stop="20190525123700 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <sub-title lang="en">Geoffrey Cleans Up</sub-title>
+    <desc lang="en">Geoffrey discovers that his new love is a wealthy heiress and not a domestic servant(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525123700 +0000" stop="20190525131100 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <sub-title lang="en">Ill Will</sub-title>
+    <desc lang="en">While in the hospital for a tonsillectomy, Will learns to look at life a little differently from his roommate, a wisecracking senior citizen(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525131100 +0000" stop="20190525134500 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <sub-title lang="en">Eyes on the Prize</sub-title>
+    <desc lang="en">Will appears on a TV game show and picks his cousin to be his teammate over his friends(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525134500 +0000" stop="20190525142000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <sub-title lang="en">Those Were the Days</sub-title>
+    <desc lang="en">An activist's story about the civil rights movement inspires Will to lead his own protest(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525142000 +0000" stop="20190525145200 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <sub-title lang="en">Vying for Attention</sub-title>
+    <desc lang="en">Will becomes childishly jealous when his mother arrives for a visit with a new boyfriend(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525145200 +0000" stop="20190525152300 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <sub-title lang="en">The Aunt Who Came to Dinner</sub-title>
+    <desc lang="en">Will and Carlton's plans of having the house to themselves are spoiled by Will's aunt(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525152300 +0000" stop="20190525155400 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <sub-title lang="en">Be My Baby Tonight</sub-title>
+    <desc lang="en">Ashley can't get her folks to understand the sexual attraction she has for her boyfriend(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525155400 +0000" stop="20190525162500 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <sub-title lang="en">Striptease for Two</sub-title>
+    <desc lang="en">Will and Carleton perform as male strippers in order to recover pawned jewellery(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525162500 +0000" stop="20190525192900 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Sparkle</sub-title>
+    <desc lang="en">In the 1960s, three sisters form a girl group and soon become local sensations with major label interest, but fame becomes a challenge as the close-knit family begins to fall apart(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525192900 +0000" stop="20190525215300 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Where's The Money?</sub-title>
+    <desc lang="en">A young man from South Central Los Angeles must recover stolen money from a fraternity(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action\/Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525215300 +0000" stop="20190526000000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">All About the Benjamins</sub-title>
+    <desc lang="en">A bounty hunter and the con man he's pursuing stumble upon a multi-million dollar stash of diamonds. They are forced to team up in order to catch the criminal responsible(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526000000 +0000" stop="20190526023200 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Meet the Blacks</sub-title>
+    <desc lang="en">The Black family decides to leave their Chicago home for Beverly Hills after they unexpectedly come into some money. Their newfound bliss in L.A. is short-lived, though, when they arrive to discover that it's the annual purge night(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190526023200 +0000" stop="20190526043700 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Welcome Home, Roscoe Jenkins</sub-title>
+    <desc lang="en">A successful Los Angeles talk show host heads home to the Deep South to reunite with his family. Once there, he learns how easy it is fall back into old rivalries(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526043700 +0000" stop="20190526051200 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">He Say, She Say</sub-title>
+    <desc lang="en">Cole meets a special woman with a big secret(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526051200 +0000" stop="20190526054700 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Uptown Friday Night</sub-title>
+    <desc lang="en">After picking up Gina's earrings, Tommy, Cole and Jerome get robbed(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526054700 +0000" stop="20190526062200 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Old School Loving</sub-title>
+    <desc lang="en">Gina gets too busy to take care of Martin(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526062200 +0000" stop="20190526065700 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Cole on Ice</sub-title>
+    <desc lang="en">When Cole gets fired, Martin hires him(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526065700 +0000" stop="20190526072800 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Housekeeper From Hell</sub-title>
+    <desc lang="en">Martin and Gina are afraid to terminate their tough new housekeeper(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526072800 +0000" stop="20190526080000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Three Homies and a Baby</sub-title>
+    <desc lang="en">Martin, Bro'man and Sheneneh babysit Martin's infant nephew Cameron, which Martin quickly regrets agreeing to do(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526080000 +0000" stop="20190526090000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">BET Rejoices</title>
+    <category lang="en">Religious</category>
+  </programme>
+  <programme start="20190526090000 +0000" stop="20190526100000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">BET Rejoices</title>
+    <category lang="en">Religious</category>
+  </programme>
+  <programme start="20190526100000 +0000" stop="20190526110000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">BET Rejoices</title>
+    <category lang="en">Religious</category>
+  </programme>
+  <programme start="20190526110000 +0000" stop="20190526120000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">BET Rejoices</title>
+    <category lang="en">Religious</category>
+  </programme>
+  <programme start="20190526120000 +0000" stop="20190526123100 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <sub-title lang="en">The Call Back</sub-title>
+    <desc lang="en">A multi-generational family lives under one roof together(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526123100 +0000" stop="20190526130200 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <sub-title lang="en">All's Well</sub-title>
+    <desc lang="en">A multi-generational family lives under one roof together(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526130200 +0000" stop="20190526133200 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <sub-title lang="en">How I Spent My Summer Vacation</sub-title>
+    <desc lang="en">When Will refuses to dress in a more conservative manner, Philip asks him to move out(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526133200 +0000" stop="20190526140300 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <sub-title lang="en">Will Gets Committed</sub-title>
+    <desc lang="en">The Banks family returns to their former neighbourhood to help their old friends rebuild(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526140300 +0000" stop="20190526143300 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <sub-title lang="en">That's No Lady, That's My Cousin</sub-title>
+    <desc lang="en">Will is furious when Ashley transforms herself from an adolescent into a sexy babe(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526143300 +0000" stop="20190526150400 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <sub-title lang="en">Hilary Gets a Job</sub-title>
+    <desc lang="en">Hilary falls for an anchorman when she is hired as a weather person(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526150400 +0000" stop="20190526153500 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <sub-title lang="en">Mama's Baby, Carlton's Maybe</sub-title>
+    <desc lang="en">The Banks family is in an uproar when Carlton's ex-girlfriend presents them with a baby(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526153500 +0000" stop="20190526160500 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <sub-title lang="en">P.S. I Love You</sub-title>
+    <desc lang="en">Philip entertains a senile judge and Will accepts expensive gifts from a rich classmate(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526160500 +0000" stop="20190526163600 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <sub-title lang="en">Here Comes the Judge</sub-title>
+    <desc lang="en">While campaigning to become a judge, Philip is faced with an embarrassing scandal(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526163600 +0000" stop="20190526190000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Where's The Money?</sub-title>
+    <desc lang="en">A young man from South Central Los Angeles must recover stolen money from a fraternity(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action\/Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190526190000 +0000" stop="20190526213000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">All About the Benjamins</sub-title>
+    <desc lang="en">A bounty hunter and the con man he's pursuing stumble upon a multi-million dollar stash of diamonds. They are forced to team up in order to catch the criminal responsible(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526213000 +0000" stop="20190527000000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Meet the Blacks</sub-title>
+    <desc lang="en">The Black family decides to leave their Chicago home for Beverly Hills after they unexpectedly come into some money. Their newfound bliss in L.A. is short-lived, though, when they arrive to discover that it's the annual purge night(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190527000000 +0000" stop="20190527022500 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Welcome Home, Roscoe Jenkins</sub-title>
+    <desc lang="en">A successful Los Angeles talk show host heads home to the Deep South to reunite with his family. Once there, he learns how easy it is fall back into old rivalries(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190527022500 +0000" stop="20190527025600 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Headin' for Trouble</sub-title>
+    <desc lang="en">Gina gets her head stuck in their new brass headboard while making love to Martin(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527025600 +0000" stop="20190527032700 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Swing Thing</sub-title>
+    <desc lang="en">The Paynes are invited to attend a Christmas party, given by some influential people(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527032700 +0000" stop="20190527035800 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">The Bodyguard</sub-title>
+    <desc lang="en">Gina and Pam witness a bank robbery and go into hiding(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527035800 +0000" stop="20190527042900 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Green Card</sub-title>
+    <desc lang="en">Pam agrees to marry the building superintendent when he's threatened with deportation, but her help comes at a price(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527042900 +0000" stop="20190527050000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">You're All I Need</sub-title>
+    <desc lang="en">When Martin flirts with a producer's wife, Gina becomes jealous and fights back(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527050000 +0000" stop="20190527053100 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Kicked to the Curb</sub-title>
+    <desc lang="en">Martin and Gina end up homeless when their old apartment is sublet and the deal on the new one falls through . Desperate to recover their old place, they try to scare away the new tenants(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527053100 +0000" stop="20190527060300 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">The Best of Martin</sub-title>
+    <desc lang="en">Tisha Campbell hosts this clip show of the best of the last 99 episodes. Included are many of the special moments from the show, outtakes, and Tisha's own insight into the laughter behind the series(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527060300 +0000" stop="20190527063400 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">The Love Jones Connection</sub-title>
+    <desc lang="en">Sheneneh appears as a contestant on a dating game show and gets a lot more than a date(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527063400 +0000" stop="20190527070600 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Where the Party At?</sub-title>
+    <desc lang="en">Martin gets a big surprise on his birthday - no one wants to come to his party(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527070600 +0000" stop="20190527074200 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <sub-title lang="en">I Second That Demo-Tion</sub-title>
+    <desc lang="en">Jamie and Nicole risk their jobs by working on their demo tape in the Jingles 2000 studio after hours, against company policy and they meet the night janitor who claims he is related to Montell Jordan(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527074200 +0000" stop="20190527081700 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <sub-title lang="en">Road Trip</sub-title>
+    <desc lang="en">To win Fancy back, Jamie buys her an engagement ring, only to get an offer from Nicole to sing with her on tour in Europe(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527081700 +0000" stop="20190527085300 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <sub-title lang="en">On Bended Knee</sub-title>
+    <desc lang="en">Jamie balks at proposing to Fancy, so he breaks up with her, but accidentally leaves an engagement ring at her apartment. He and his pals then search her place for the rock, hoping to find it before Fancy does(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527085300 +0000" stop="20190527092600 +0000" channel="BET - Eastern Feed">
+    <title lang="en">A Different World</title>
+    <sub-title lang="en">Those Who Can't ... Tutor</sub-title>
+    <desc lang="en">Dwayne offers to tutor Denise in calculus after she receives a D on a test. After an extra-long study session, Dwayne finds himself locked inside the dorm after hours. He is caught sneaking out of Whitley's room by Stevie who plans to report him(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527092600 +0000" stop="20190527100000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">A Different World</title>
+    <sub-title lang="en">War of the Words</sub-title>
+    <desc lang="en">Maggie prepares to debate Whitley on the topic of whether women can balance a career and family life. She is distracted by a surprise visit from her boyfriend, Mike, who asks her to transfer to a school in Washington and proposes marriage(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527100000 +0000" stop="20190527110000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">BET Rejoices</title>
+    <category lang="en">Religious</category>
+  </programme>
+  <programme start="20190527110000 +0000" stop="20190527113000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <desc lang="en">A streetwise Philadelphia teenager is sent to live with his rich relatives in Bel Air, California(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527113000 +0000" stop="20190527120000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <desc lang="en">A streetwise Philadelphia teenager is sent to live with his rich relatives in Bel Air, California(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527120000 +0000" stop="20190527123000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Meet the Browns</title>
+    <desc lang="en">Leroy Brown inherited a dilapidated house from his deceased father and turned it into a home for seniors(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527123000 +0000" stop="20190527130000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Meet the Browns</title>
+    <desc lang="en">Leroy Brown inherited a dilapidated house from his deceased father and turned it into a home for seniors(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527130000 +0000" stop="20190527133000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Meet the Browns</title>
+    <desc lang="en">Leroy Brown inherited a dilapidated house from his deceased father and turned it into a home for seniors(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527133000 +0000" stop="20190527140000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Meet the Browns</title>
+    <desc lang="en">Leroy Brown inherited a dilapidated house from his deceased father and turned it into a home for seniors(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527140000 +0000" stop="20190527143000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <desc lang="en">An Atlanta fireman's life is turned upside down when he and his two kids are forced to move in with his parents(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527143000 +0000" stop="20190527150000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <desc lang="en">An Atlanta fireman's life is turned upside down when he and his two kids are forced to move in with his parents(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527150000 +0000" stop="20190527153000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <desc lang="en">An Atlanta fireman's life is turned upside down when he and his two kids are forced to move in with his parents(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527153000 +0000" stop="20190527160000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <desc lang="en">An Atlanta fireman's life is turned upside down when he and his two kids are forced to move in with his parents(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527160000 +0000" stop="20190527163000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527163000 +0000" stop="20190527170000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527170000 +0000" stop="20190527173000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527173000 +0000" stop="20190527180000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527180000 +0000" stop="20190527183000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527183000 +0000" stop="20190527190000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527190000 +0000" stop="20190527220000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Madea's Witness Protection</sub-title>
+    <desc lang="en">A New York City banker puts his family into a witness protection program at his aunt's home when he is set up as the instigator of his company's fraudulent scheme(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190527220000 +0000" stop="20190528010000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Barbershop: The Next Cut</sub-title>
+    <desc lang="en">Things are going well for Calvin, Eddie and the rest of the crew at Calvin's Barbershop, but their neighbourhood is taking a turn for the worse. With gang members roaming the streets, the crew needs to work together to save the shop and the community(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528010000 +0000" stop="20190528040000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Why Did I Get Married?</sub-title>
+    <desc lang="en">Three couples take a week-long vacation to figure out why they got married(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy\/Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528040000 +0000" stop="20190528043000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528043000 +0000" stop="20190528050000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528050000 +0000" stop="20190528053000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528053000 +0000" stop="20190528060000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528060000 +0000" stop="20190528063000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528063000 +0000" stop="20190528070000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528070000 +0000" stop="20190528073000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Steve Harvey Show</title>
+    <desc lang="en">A former R&amp;B music icon turned high school teacher solves daily crises of his students(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528073000 +0000" stop="20190528080000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Steve Harvey Show</title>
+    <desc lang="en">A former R&amp;B music icon turned high school teacher solves daily crises of his students(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528080000 +0000" stop="20190528083000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <desc lang="en">Texas native Jamie King is an aspiring actor who heads to Hollywood in the hopes of finding fame and fortune in the entertainment industry. To support himself, he works at his Aunt Helen and Uncle Junior's Los Angeles hotel, the King Towers(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528083000 +0000" stop="20190528090000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <desc lang="en">Texas native Jamie King is an aspiring actor who heads to Hollywood in the hopes of finding fame and fortune in the entertainment industry. To support himself, he works at his Aunt Helen and Uncle Junior's Los Angeles hotel, the King Towers(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528090000 +0000" stop="20190528093000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <desc lang="en">Texas native Jamie King is an aspiring actor who heads to Hollywood in the hopes of finding fame and fortune in the entertainment industry. To support himself, he works at his Aunt Helen and Uncle Junior's Los Angeles hotel, the King Towers(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528093000 +0000" stop="20190528100000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <desc lang="en">Texas native Jamie King is an aspiring actor who heads to Hollywood in the hopes of finding fame and fortune in the entertainment industry. To support himself, he works at his Aunt Helen and Uncle Junior's Los Angeles hotel, the King Towers(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528100000 +0000" stop="20190528110000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">BET Rejoices</title>
+    <category lang="en">Religious</category>
+  </programme>
+  <programme start="20190528110000 +0000" stop="20190528113000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <desc lang="en">A streetwise Philadelphia teenager is sent to live with his rich relatives in Bel Air, California(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528113000 +0000" stop="20190528120000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <desc lang="en">A streetwise Philadelphia teenager is sent to live with his rich relatives in Bel Air, California(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528120000 +0000" stop="20190528123000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Meet the Browns</title>
+    <desc lang="en">Leroy Brown inherited a dilapidated house from his deceased father and turned it into a home for seniors(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528123000 +0000" stop="20190528130000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Meet the Browns</title>
+    <desc lang="en">Leroy Brown inherited a dilapidated house from his deceased father and turned it into a home for seniors(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528130000 +0000" stop="20190528133000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Meet the Browns</title>
+    <desc lang="en">Leroy Brown inherited a dilapidated house from his deceased father and turned it into a home for seniors(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528133000 +0000" stop="20190528140000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Meet the Browns</title>
+    <desc lang="en">Leroy Brown inherited a dilapidated house from his deceased father and turned it into a home for seniors(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528140000 +0000" stop="20190528143000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <desc lang="en">An Atlanta fireman's life is turned upside down when he and his two kids are forced to move in with his parents(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528143000 +0000" stop="20190528150000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <desc lang="en">An Atlanta fireman's life is turned upside down when he and his two kids are forced to move in with his parents(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528150000 +0000" stop="20190528190000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Five Heartbeats</sub-title>
+    <desc lang="en">A 1960s singing group rises to fame despite the prejudice and injustice that they face(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Musical</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190528190000 +0000" stop="20190528220000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Barbershop: The Next Cut</sub-title>
+    <desc lang="en">Things are going well for Calvin, Eddie and the rest of the crew at Calvin's Barbershop, but their neighbourhood is taking a turn for the worse. With gang members roaming the streets, the crew needs to work together to save the shop and the community(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528220000 +0000" stop="20190529010000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Why Did I Get Married?</sub-title>
+    <desc lang="en">Three couples take a week-long vacation to figure out why they got married(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy\/Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529010000 +0000" stop="20190529020000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Games People Play</title>
+    <sub-title lang="en">Reversal of Fortune</sub-title>
+    <desc lang="en">Three women and their men, battle for success in the world of competitive sports(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529020000 +0000" stop="20190529030000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Ladies Night</title>
+    <sub-title lang="en">Right Here</sub-title>
+    <desc lang="en">Follow Salt-N-Pepa, DJ Spinderella and SWV as they prepare for a national tour(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529030000 +0000" stop="20190529040000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Games People Play</title>
+    <desc lang="en">Three women and their men, battle for success in the world of competitive sports(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529040000 +0000" stop="20190529050000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Ladies Night</title>
+    <desc lang="en">Follow Salt-N-Pepa, DJ Spinderella and SWV as they prepare for a national tour(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529050000 +0000" stop="20190529053000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529053000 +0000" stop="20190529060000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529060000 +0000" stop="20190529063000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529063000 +0000" stop="20190529070000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529070000 +0000" stop="20190529073000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Steve Harvey Show</title>
+    <desc lang="en">A former R&amp;B music icon turned high school teacher solves daily crises of his students(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529073000 +0000" stop="20190529080000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Steve Harvey Show</title>
+    <desc lang="en">A former R&amp;B music icon turned high school teacher solves daily crises of his students(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529080000 +0000" stop="20190529083000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <desc lang="en">Texas native Jamie King is an aspiring actor who heads to Hollywood in the hopes of finding fame and fortune in the entertainment industry. To support himself, he works at his Aunt Helen and Uncle Junior's Los Angeles hotel, the King Towers(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529083000 +0000" stop="20190529090000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <desc lang="en">Texas native Jamie King is an aspiring actor who heads to Hollywood in the hopes of finding fame and fortune in the entertainment industry. To support himself, he works at his Aunt Helen and Uncle Junior's Los Angeles hotel, the King Towers(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529090000 +0000" stop="20190529093000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <desc lang="en">Texas native Jamie King is an aspiring actor who heads to Hollywood in the hopes of finding fame and fortune in the entertainment industry. To support himself, he works at his Aunt Helen and Uncle Junior's Los Angeles hotel, the King Towers(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529093000 +0000" stop="20190529100000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">The Jamie Foxx Show</title>
+    <desc lang="en">Texas native Jamie King is an aspiring actor who heads to Hollywood in the hopes of finding fame and fortune in the entertainment industry. To support himself, he works at his Aunt Helen and Uncle Junior's Los Angeles hotel, the King Towers(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529100000 +0000" stop="20190529110000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">BET Rejoices</title>
+    <category lang="en">Religious</category>
+  </programme>
+  <programme start="20190529110000 +0000" stop="20190529113000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <desc lang="en">A streetwise Philadelphia teenager is sent to live with his rich relatives in Bel Air, California(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529113000 +0000" stop="20190529120000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Fresh Prince of Bel Air</title>
+    <desc lang="en">A streetwise Philadelphia teenager is sent to live with his rich relatives in Bel Air, California(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529120000 +0000" stop="20190529123000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Meet the Browns</title>
+    <desc lang="en">Leroy Brown inherited a dilapidated house from his deceased father and turned it into a home for seniors(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529123000 +0000" stop="20190529130000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Meet the Browns</title>
+    <desc lang="en">Leroy Brown inherited a dilapidated house from his deceased father and turned it into a home for seniors(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529130000 +0000" stop="20190529133000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Meet the Browns</title>
+    <desc lang="en">Leroy Brown inherited a dilapidated house from his deceased father and turned it into a home for seniors(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529133000 +0000" stop="20190529140000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Meet the Browns</title>
+    <desc lang="en">Leroy Brown inherited a dilapidated house from his deceased father and turned it into a home for seniors(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529140000 +0000" stop="20190529143000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <desc lang="en">An Atlanta fireman's life is turned upside down when he and his two kids are forced to move in with his parents(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529143000 +0000" stop="20190529150000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <desc lang="en">An Atlanta fireman's life is turned upside down when he and his two kids are forced to move in with his parents(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529150000 +0000" stop="20190529153000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <desc lang="en">An Atlanta fireman's life is turned upside down when he and his two kids are forced to move in with his parents(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529153000 +0000" stop="20190529160000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">House of Payne</title>
+    <desc lang="en">An Atlanta fireman's life is turned upside down when he and his two kids are forced to move in with his parents(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529160000 +0000" stop="20190529163000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529163000 +0000" stop="20190529170000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529170000 +0000" stop="20190529173000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529173000 +0000" stop="20190529180000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529180000 +0000" stop="20190529183000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529183000 +0000" stop="20190529190000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529190000 +0000" stop="20190529193000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529193000 +0000" stop="20190529200000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Martin</title>
+    <desc lang="en">Radio personality Martin Payne hosts this talk show on Detroit radio station WZUP(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529200000 +0000" stop="20190529203000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Black-ish</title>
+    <desc lang="en">A man tries to find a sense of cultural identity in his suburb community where he lives with his wife and five kids(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529203000 +0000" stop="20190529210000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Black-ish</title>
+    <desc lang="en">A man tries to find a sense of cultural identity in his suburb community where he lives with his wife and five kids(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529210000 +0000" stop="20190529213000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Black-ish</title>
+    <desc lang="en">A man tries to find a sense of cultural identity in his suburb community where he lives with his wife and five kids(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529213000 +0000" stop="20190529220000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Black-ish</title>
+    <desc lang="en">A man tries to find a sense of cultural identity in his suburb community where he lives with his wife and five kids(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529220000 +0000" stop="20190529223000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Black-ish</title>
+    <desc lang="en">A man tries to find a sense of cultural identity in his suburb community where he lives with his wife and five kids(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529223000 +0000" stop="20190529230000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Black-ish</title>
+    <desc lang="en">A man tries to find a sense of cultural identity in his suburb community where he lives with his wife and five kids(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529230000 +0000" stop="20190529233000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Black-ish</title>
+    <desc lang="en">A man tries to find a sense of cultural identity in his suburb community where he lives with his wife and five kids(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529233000 +0000" stop="20190530000000 +0000" channel="BET - Eastern Feed">
+    <title lang="en">Black-ish</title>
+    <desc lang="en">A man tries to find a sense of cultural identity in his suburb community where he lives with his wife and five kids(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
     </rating>
   </programme>
 </tv>
