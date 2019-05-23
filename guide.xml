@@ -10,6 +10,10 @@
     <icon src="https://tvtv.us/tvm/i/image/station/100x100/comedycentral.png" />
     <url>http://www.tvtv.us</url>
   </channel>
+  <channel id="MTV">
+    <display-name lang="fi">MTV</display-name>
+    <url>http://www.telsu.fi</url>
+  </channel>
   <programme start="20190523010000 +0000" stop="20190523033500 +0000" channel="BET - Eastern Feed">
     <title lang="en">Movie</title>
     <sub-title lang="en">South Central</sub-title>
