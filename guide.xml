@@ -5,6 +5,11 @@
     <icon src="https://tvtv.us/tvm/i/image/station/100x100/hbo2.png" />
     <url>http://www.tvtv.us</url>
   </channel>
+  <channel id="HBO 2 - Eastern Feed">
+    <display-name lang="en">HBO 2 - Eastern Feed</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/hbo2.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
   <programme start="20190523015500 +0000" stop="20190523030000 +0000" channel="HBO 2 - Pacific Feed">
     <title lang="en">Chernobyl</title>
     <desc lang="en">This series dramatizes the Chernobyl nuclear accident(n)</desc>
@@ -146,6 +151,2021 @@
     <title lang="en">What's My Name: Muhammad Ali</title>
     <desc lang="en">The incredible journey of Muhammad Ali--from world champion fighter to conscientious objector and social activist--is explored through new archive material(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524010000 +0000" stop="20190524030000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Collateral</sub-title>
+    <desc lang="en">Cab driver Max Durocher's dreams of owning his own limo company are threatened when he agrees to drive a stranger to five locations. He soon finds himself involved with the criminal activities of a contract killer(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190524030000 +0000" stop="20190524040500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Chernobyl</title>
+    <desc lang="en">This series dramatizes the Chernobyl nuclear accident(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524040500 +0000" stop="20190524044200 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Barry</title>
+    <sub-title lang="en">berkman &gt; block</sub-title>
+    <desc lang="en">Barry is out for vengeance; Sally takes an acting detour(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190524044200 +0000" stop="20190524051500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Wyatt Cenac: Problem Areas</title>
+    <desc lang="en">Wyatt embarks on a journey to understand issues and investigate real-world solutions(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524051500 +0000" stop="20190524054500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">On Tour With Asperger's R Us</title>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524054500 +0000" stop="20190524061500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">On Tour With Asperger's R Us</title>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524061500 +0000" stop="20190524075500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Nun</sub-title>
+    <desc lang="en">A priest with a past that haunts him and a novitiate on the brink of her final vows travel to a remote Romanian abbey on orders from the Vatican to investigate a nun's death, risking their lives and their souls when they encounter an evil force(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524075500 +0000" stop="20190524090000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">My Dad Wrote a Porno</title>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190524090000 +0000" stop="20190524104500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">A Fantastic Fear of Everything</sub-title>
+    <desc lang="en">A crime writer's research into Victorian-era serial killers has left him with a growing paranoia that he's constantly about to be murdered. When a Hollywood executive takes an interest in his script, he is forced to confront the demons that plague him(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190524104500 +0000" stop="20190524110000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">HBO First Look</title>
+    <sub-title lang="en">Tolkien</sub-title>
+    <desc lang="en">A behind-the-scenes look at film productions(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524110000 +0000" stop="20190524123000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Stay Alive</sub-title>
+    <desc lang="en">A group of teens discover that the horror video game in their possession is more realistic than they thought, when members of the group begin to die in the same brutal manner they did in the game(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524123000 +0000" stop="20190524140000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Just Visiting</sub-title>
+    <desc lang="en">An 11th century French knight and his squire are transported to modern-day Chicago(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524140000 +0000" stop="20190524163000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Inception</sub-title>
+    <desc lang="en">A skilled thief has a final shot at redemption if he can execute his toughest job to date. To be reunited with his family, the man must plant an idea into his victim's subconscious(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524163000 +0000" stop="20190524184500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">BlacKkKlansman</sub-title>
+    <desc lang="en">A rookie detective is the first black police officer in his city's history, and it doesn't take long for him to tackle an incredible case: infiltrating the Ku Klux Klan. While he leads the investigation, he recruits a white detective to help(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Biography</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524184500 +0000" stop="20190524203500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Rampage</sub-title>
+    <desc lang="en">A primatologist has a closer bond with George, a friendly gorilla that he's raised since infanthood, than he does with any humans, but when the animal is exposed to a genetic experiment it grows to a massive size and goes on a destructive rampage(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524203500 +0000" stop="20190524221500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Descent</sub-title>
+    <desc lang="en">A group of female friends on an adventure vacation are trapped underground and pursued by a band of shadowy mutant flesh eaters: stranded in a cave with no map, they must battle a foe they can hardly see(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190524221500 +0000" stop="20190525000000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Annapolis</sub-title>
+    <desc lang="en">A brawny young man fulfills his mother's dream by attending the Naval Academy, where he's assigned a pudgy but brilliant roommate. Both men must fight their way to acceptance, including entering the traditional boxing competition(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190525000000 +0000" stop="20190525013000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">What's My Name: Muhammad Ali</title>
+    <desc lang="en">The incredible journey of Muhammad Ali--from world champion fighter to conscientious objector and social activist--is explored through new archive material(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190525013000 +0000" stop="20190525030000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Game of Thrones</title>
+    <desc lang="en">Winter is coming and the realm of Westeros is split as its people battle for the throne(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525030000 +0000" stop="20190525045000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Predator</sub-title>
+    <desc lang="en">A curious young boy accidentally triggers the return of the galaxy's deadliest hunters to Earth. The genetically upgraded Predators are stinger, faster and more dangerous than before, and it's up to small group of ex-soldiers to stop the invasion(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525045000 +0000" stop="20190525064500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Bourne Supremacy</sub-title>
+    <desc lang="en">A former CIA assassin from an experimental top-secret program resorts to his training when he is framed for a botched CIA operation(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190525064500 +0000" stop="20190525083000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Reign of Fire</sub-title>
+    <desc lang="en">Two men battle a brood of ancient dragons that have risen in order to dominate Earth(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190525083000 +0000" stop="20190525101000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Nun</sub-title>
+    <desc lang="en">A priest with a past that haunts him and a novitiate on the brink of her final vows travel to a remote Romanian abbey on orders from the Vatican to investigate a nun's death, risking their lives and their souls when they encounter an evil force(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190525101000 +0000" stop="20190525110500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Real Time With Bill Maher</title>
+    <desc lang="en">The outspoken comedian discusses hot topics(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVM</value>
+    </rating>
+  </programme>
+  <programme start="20190525110500 +0000" stop="20190525114000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Wyatt Cenac: Problem Areas</title>
+    <desc lang="en">Wyatt embarks on a journey to understand issues and investigate real-world solutions(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525114000 +0000" stop="20190525122000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Tour de Pharmacy</title>
+    <desc lang="en">Chronicling the prevalence of doping in the world of professional cycling(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525122000 +0000" stop="20190525140500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Ghosts of Girlfriends Past</sub-title>
+    <desc lang="en">A bachelor is living his dream of being a big city photographer, taking pictures of beautiful women. He dates many women for brief periods of time and leaves them. At his brother's wedding, ghosts of his exes visit him to show him the error of his ways(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190525140500 +0000" stop="20190525142000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">HBO First Look</title>
+    <sub-title lang="en">John Wick Chapter 3: Parabellum</sub-title>
+    <desc lang="en">A behind-the-scenes look at film productions(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525142000 +0000" stop="20190525164000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Hulk</sub-title>
+    <desc lang="en">A geneticist's experimental accident curses him with the tendency to become a powerful giant green brute under emotional stress(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525164000 +0000" stop="20190525182500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Uncle Drew</sub-title>
+    <desc lang="en">After his team of street basketball players is poached by his rival, a team manager recruits the legendary Uncle Drew, a septuagenarian and former legend, to help him win an important tournament, but Uncle Drew insists that he needs his old team(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190525182500 +0000" stop="20190525190000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Barry</title>
+    <sub-title lang="en">berkman &gt; block</sub-title>
+    <desc lang="en">Barry is out for vengeance; Sally takes an acting detour(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525190000 +0000" stop="20190525195700 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Game of Thrones</title>
+    <sub-title lang="en">Winterfell</sub-title>
+    <desc lang="en">Arriving at Winterfell, Jon and Daenerys struggle to unite a divided North(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525195700 +0000" stop="20190525205700 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Game of Thrones</title>
+    <sub-title lang="en">A Knight of the Seven Kingdoms</sub-title>
+    <desc lang="en">Jaime faces judgement and Winterfell prepares for the battle to come(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525205700 +0000" stop="20190525221900 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Game of Thrones</title>
+    <sub-title lang="en">The Long Night</sub-title>
+    <desc lang="en">Winterfell fights the Army of the Dead(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525221900 +0000" stop="20190525233900 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Game of Thrones</title>
+    <sub-title lang="en">The Last of the Starks</sub-title>
+    <desc lang="en">In the wake of a costly victory, Jon and Daenerys look to the south as Tyrion eyes a compromise that could save countless lives(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525233900 +0000" stop="20190526010100 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Game of Thrones</title>
+    <sub-title lang="en">The Bells</sub-title>
+    <desc lang="en">Daenerys and Cersei weigh their options as an epic conflict looms at King\u2019s Landing(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190526010100 +0000" stop="20190526022000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Game of Thrones</title>
+    <desc lang="en">Winter is coming and the realm of Westeros is split as its people battle for the throne(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190526022000 +0000" stop="20190526031500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Big Little Lies</title>
+    <sub-title lang="en">Somebody's Dead</sub-title>
+    <desc lang="en">In an affluent community, a suspicious death at an elementary school fundraiser draws attention to the friction amongst some of the mothers. Madeline and Celeste welcome Jane into their inner circle and battle lines are drawn after an incident(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190526031500 +0000" stop="20190526041500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Gentleman Jack</title>
+    <sub-title lang="en">I was just passing</sub-title>
+    <desc lang="en">Rejected by her would-be companion Vere Hobart, Anne Lister returns to her shabby ancestral home, Shibden Hall, determined to restore its fortunes and find herself a wife(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526041500 +0000" stop="20190526051500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Real Sports With Bryant Gumbel</title>
+    <desc lang="en">Goes beyond the scores and statistics to present a critical look at the world of sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190526051500 +0000" stop="20190526064500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Breaking In</sub-title>
+    <desc lang="en">While setting her late father's estate in his fortress-like house, a mother is trapped outside when would-be burglars activate the security system and lock the house down. With her children on the inside, she stops at nothing to rescue them(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526064500 +0000" stop="20190526071500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Wyatt Cenac: Problem Areas</title>
+    <desc lang="en">Wyatt embarks on a journey to understand issues and investigate real-world solutions(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526071500 +0000" stop="20190526074500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Last Week Tonight With John Oliver</title>
+    <desc lang="en">Comedian John Oliver offers his satirical take on news, current events and politics(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526074500 +0000" stop="20190526093000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Hide and Seek</sub-title>
+    <desc lang="en">Following his wife's suicide, a psychologist and his young daughter, Emily, move to the country where mysterious events begin to occur at the same time that Emily finds comfort in her seemingly-imaginary friend, Charlie(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190526093000 +0000" stop="20190526113000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Book of Eli</sub-title>
+    <desc lang="en">A drifter in a post-apocalyptic society travels across America, protecting the last copy of the King James Bible in order to deliver it to the west coast so it can help save humanity. However, an evil gang lord seeks to take the book for himself(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Adventure</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526113000 +0000" stop="20190526123000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Amanda Seales: I Be Knowin'</title>
+    <desc lang="en">Comedian Amanda Seales of HBO's 'Insecure' stars in her first hour-long comedy special, taped at the Edison Ballroom in New York(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190526123000 +0000" stop="20190526124500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">HBO First Look</title>
+    <sub-title lang="en">John Wick Chapter 3: Parabellum</sub-title>
+    <desc lang="en">A behind-the-scenes look at film productions(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526124500 +0000" stop="20190526150000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">He's Just Not That Into You</sub-title>
+    <desc lang="en">Several young women and men, from committed relationships and singles, try to understand the signals and the intentions of the other sex. A variety of situations and misunderstandings develop the truth about dating in the modern world(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526150000 +0000" stop="20190526160000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Gentleman Jack</title>
+    <sub-title lang="en">I was just passing</sub-title>
+    <desc lang="en">Rejected by her would-be companion Vere Hobart, Anne Lister returns to her shabby ancestral home, Shibden Hall, determined to restore its fortunes and find herself a wife(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526160000 +0000" stop="20190526170000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Gentleman Jack</title>
+    <sub-title lang="en">I just went there to study anatomy</sub-title>
+    <desc lang="en">Lister begins a playful but dangerous courtship of Ann Walker, who soon finds herself captivated by her charismatic and unusual neighbor(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190526170000 +0000" stop="20190526180000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Gentleman Jack</title>
+    <sub-title lang="en">Oh is that what you call it?</sub-title>
+    <desc lang="en">Lister confides her hopes for a future with Ann Walker to her aunt, as Ann's neighbour, Mrs. Priestley, has an inkling about the two women's relationship that presents a threat(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526180000 +0000" stop="20190526190000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Gentleman Jack</title>
+    <sub-title lang="en">Most women are dull and stupid</sub-title>
+    <desc lang="en">When news of a friend\u2019s death arrives, Ann\u2019s desperate reaction makes Lister suspect that she has secrets of her own. Lister steps up her plan to re-open her old coal mines(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526190000 +0000" stop="20190526200500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Gentleman Jack</title>
+    <sub-title lang="en">Let's have another look at your past perfect</sub-title>
+    <desc lang="en">The widowed Reverend Ainsworth arrives in Halifax, and with encouragement from Mrs. Priestley, sets his sights on Ann Walker(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526200500 +0000" stop="20190526220000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Night School</sub-title>
+    <desc lang="en">A man who's tired of his dead-end life and humiliating job signs up for night school so that he can pass the GED exam and finally be a high school graduate, but with an eclectic group of students the teacher turns to unconventional ways of teaching(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526220000 +0000" stop="20190526231100 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">The Case Against Adnan Syed</title>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526231100 +0000" stop="20190527001800 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">The Case Against Adnan Syed</title>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190527001800 +0000" stop="20190527012700 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">The Case Against Adnan Syed</title>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190527012700 +0000" stop="20190527023000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">The Case Against Adnan Syed</title>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190527023000 +0000" stop="20190527030000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Wyatt Cenac: Problem Areas</title>
+    <desc lang="en">Wyatt embarks on a journey to understand issues and investigate real-world solutions(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527030000 +0000" stop="20190527044500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">A Fantastic Fear of Everything</sub-title>
+    <desc lang="en">A crime writer's research into Victorian-era serial killers has left him with a growing paranoia that he's constantly about to be murdered. When a Hollywood executive takes an interest in his script, he is forced to confront the demons that plague him(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190527044500 +0000" stop="20190527064500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Collateral</sub-title>
+    <desc lang="en">Cab driver Max Durocher's dreams of owning his own limo company are threatened when he agrees to drive a stranger to five locations. He soon finds himself involved with the criminal activities of a contract killer(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190527064500 +0000" stop="20190527082500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Hangover</sub-title>
+    <desc lang="en">Two days before his wedding, three friends decide to take a groom to Las Vegas. Since the bride-to-be doesn't approve of bachelor parties, the men lie to her about their trip. After a wild night of partying, the guys wake up to find the groom missing(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190527082500 +0000" stop="20190527095000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Jonah Hex</sub-title>
+    <desc lang="en">A bounty hunter, with warrants out for his own arrest, is hired by the United States military. In exchange for his freedom, the bounty hunter must stop a terrorist from unleashing hell on Earth(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190527095000 +0000" stop="20190527115500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Best Man</sub-title>
+    <desc lang="en">A wedding celebration is disrupted by a revealing novel that was written by the best man(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190527115500 +0000" stop="20190527133000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Bootmen</sub-title>
+    <desc lang="en">An Australian steel worker joins a well-known dance troupe to escape his dead-end job(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190527133000 +0000" stop="20190527143000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Real Time With Bill Maher</title>
+    <desc lang="en">The outspoken comedian discusses hot topics(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVM</value>
+    </rating>
+  </programme>
+  <programme start="20190527143000 +0000" stop="20190527150000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Last Week Tonight With John Oliver</title>
+    <desc lang="en">Comedian John Oliver offers his satirical take on news, current events and politics(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190527150000 +0000" stop="20190527170000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Courage Under Fire</sub-title>
+    <desc lang="en">An officer must investigate the death of a female captain to determine whether she qualifies for the Medal of Honor, all the while facing his own demons(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190527170000 +0000" stop="20190527184500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">41</title>
+    <desc lang="en">A rare, intimate glimpse at the life and times of the 41st President of the United States, as told by George Herbert Walker Bush in his own words(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527184500 +0000" stop="20190527204500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Green Zone</sub-title>
+    <desc lang="en">After learning of covert and incorrect intelligence, a U.S. Army officer goes rogue as he searches for weapons of mass destruction(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190527204500 +0000" stop="20190527223000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">John McCain: For Whom the Bell Tolls</title>
+    <desc lang="en">We take a closer look at the life of John McCain and his service in the US Senate(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190527223000 +0000" stop="20190528004500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">12 Strong</sub-title>
+    <desc lang="en">A U.S. Special Forces team is sent to Afghanistan to secure local allies following the terrorist attacks of 9\/11. Led by their new captain, the 12 men struggle with the difficult terrain, a vast cultural divide and a numerically superior enemy(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190528004500 +0000" stop="20190528014500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Chernobyl</title>
+    <desc lang="en">This series dramatizes the Chernobyl nuclear accident(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528014500 +0000" stop="20190528025000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Chernobyl</title>
+    <desc lang="en">This series dramatizes the Chernobyl nuclear accident(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528025000 +0000" stop="20190528040000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Chernobyl</title>
+    <desc lang="en">This series dramatizes the Chernobyl nuclear accident(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528040000 +0000" stop="20190528064500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Miracle at St. Anna</sub-title>
+    <desc lang="en">Four African-American soldiers find themselves trapped in Italy by German soldiers(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190528064500 +0000" stop="20190528083500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Predator</sub-title>
+    <desc lang="en">A curious young boy accidentally triggers the return of the galaxy's deadliest hunters to Earth. The genetically upgraded Predators are stinger, faster and more dangerous than before, and it's up to small group of ex-soldiers to stop the invasion(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190528083500 +0000" stop="20190528102500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Get Him to the Greek</sub-title>
+    <desc lang="en">A record company hires an intern to accompany an out-of-control rock star to Los Angeles for a concert. The intern struggles to navigate the musician through wild parties and strip clubs in London, New York and Las Vegas(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528102500 +0000" stop="20190528115500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Liability</sub-title>
+    <desc lang="en">A young man gets taken through dangerous world when he has to drive his mom's gangster's boyfriend around(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Crime Story</category>
+  </programme>
+  <programme start="20190528115500 +0000" stop="20190528133000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Griff the Invisible</sub-title>
+    <desc lang="en">Office worker by day, superhero by night, Griff meets Melody, a scientist(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528133000 +0000" stop="20190528151500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Our Family Wedding</sub-title>
+    <desc lang="en">A young couple's upcoming wedding day is threatened by the antics of their competitive fathers(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528151500 +0000" stop="20190528172000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Valentine's Day</sub-title>
+    <desc lang="en">A stellar cast stars in this comedy, which follows friends in the Los Angeles area, both single and married, who are attempting to navigate the perils and pitfalls of Valentine's Day. While some meet the high expectations, others crack under pressure(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528172000 +0000" stop="20190528191500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Repo Men</sub-title>
+    <desc lang="en">In a future where artificial organs can be bought on credit, if the payments aren't made, they will be repossessed. When a repo man can't make the payments on his artificial heart, he must go on the run before his former partner tracks him down(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190528191500 +0000" stop="20190528210500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Veronica Mars</sub-title>
+    <desc lang="en">A former teenage private eye returns to her hometown when her ex-boyfriend calls to tell her he has been wrongfully accused of murder(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy\/Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528210500 +0000" stop="20190528224000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">My Big Fat Greek Wedding</sub-title>
+    <desc lang="en">A Greek girl falls in love with a non-Greek man, which creates havoc amongst her family(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528224000 +0000" stop="20190529001500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Stepford Wives</sub-title>
+    <desc lang="en">A former executive uncovers the dark secret behind the seemingly perfect town of Stepford(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <category lang="en">Comedy\/Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529001500 +0000" stop="20190529005000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Last Week Tonight With John Oliver</title>
+    <desc lang="en">Comedian John Oliver offers his satirical take on news, current events and politics(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529005000 +0000" stop="20190529023000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Nun</sub-title>
+    <desc lang="en">A priest with a past that haunts him and a novitiate on the brink of her final vows travel to a remote Romanian abbey on orders from the Vatican to investigate a nun's death, risking their lives and their souls when they encounter an evil force(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529023000 +0000" stop="20190529030000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">The Shop</title>
+    <sub-title lang="en">Uninterrupted</sub-title>
+    <desc lang="en">Unfiltered conversation and debate from the biggest names in sports and entertainment(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190529030000 +0000" stop="20190529040500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Chernobyl</title>
+    <desc lang="en">This series dramatizes the Chernobyl nuclear accident(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529040500 +0000" stop="20190529050500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Gentleman Jack</title>
+    <sub-title lang="en">Do ladies do that?</sub-title>
+    <desc lang="en">With Ann Walker\u2019s mental state in a downward spiral, Lister is forced to contemplate travelling to Europe alone, despite her family\u2019s warnings(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529050500 +0000" stop="20190529070000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Game of Thrones: The Last Watch</title>
+    <desc lang="en">For a year, acclaimed British filmmaker Jeanie Finlay was embedded on the set of the hit HBO series 'Game of Thrones,' chronicling the creation of the show\u2019s ambitious and complicated final season(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529070000 +0000" stop="20190529084500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Blockers</sub-title>
+    <desc lang="en">Three parents try to stop their daughters from losing their virginity on prom night(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190529084500 +0000" stop="20190529102500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Tanner Hall</sub-title>
+    <desc lang="en">Four teenage girls learn about life while living in an all-girls boarding school in New England(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190529102500 +0000" stop="20190529104000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">HBO First Look</title>
+    <sub-title lang="en">Tolkien</sub-title>
+    <desc lang="en">A behind-the-scenes look at film productions(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529104000 +0000" stop="20190529130000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Color of Night</sub-title>
+    <desc lang="en">A psychologist begins a dangerous affair with one of his murdered colleague's patients(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Suspense</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190529130000 +0000" stop="20190529144500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Reign of Fire</sub-title>
+    <desc lang="en">Two men battle a brood of ancient dragons that have risen in order to dominate Earth(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529144500 +0000" stop="20190529170000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Prestige</sub-title>
+    <desc lang="en">The rivalry between two magicians leads them on a life-long battle for supremacy full of obsession, deceit and jealousy with dangerous and deadly consequences(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529170000 +0000" stop="20190529184500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Dawn of the Dead</sub-title>
+    <desc lang="en">Survivors of a zombie plague take refuge in a shopping mall. When their security is breeched, they must implement their escape plan to survive(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190529184500 +0000" stop="20190529205000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Game of Thrones: The Last Watch</title>
+    <desc lang="en">For a year, acclaimed British filmmaker Jeanie Finlay was embedded on the set of the hit HBO series 'Game of Thrones,' chronicling the creation of the show\u2019s ambitious and complicated final season(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529205000 +0000" stop="20190529222500 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Beyond the Reach</sub-title>
+    <desc lang="en">During a hunting trip in the Mojave Desert, a dangerous game is played by a corporate shark and his poor young guide(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190529222500 +0000" stop="20190530001000 +0000" channel="HBO 2 - Pacific Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">A Fantastic Fear of Everything</sub-title>
+    <desc lang="en">A crime writer's research into Victorian-era serial killers has left him with a growing paranoia that he's constantly about to be murdered. When a Hollywood executive takes an interest in his script, he is forced to confront the demons that plague him(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190523000000 +0000" stop="20190523010000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Gentleman Jack</title>
+    <sub-title lang="en">Let's have another look at your past perfect</sub-title>
+    <desc lang="en">The widowed Reverend Ainsworth arrives in Halifax, and with encouragement from Mrs. Priestley, sets his sights on Ann Walker(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190523010000 +0000" stop="20190523023000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Game of Thrones</title>
+    <desc lang="en">Winter is coming and the realm of Westeros is split as its people battle for the throne(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190523023000 +0000" stop="20190523033000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">My Dad Wrote a Porno</title>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190523033000 +0000" stop="20190523045500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">What's My Name: Muhammad Ali</title>
+    <desc lang="en">The incredible journey of Muhammad Ali--from world champion fighter to conscientious objector and social activist--is explored through new archive material(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190523045500 +0000" stop="20190523063500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">House of D</sub-title>
+    <desc lang="en">An American artist living in Paris works through the problems in his past to discover who he really is. He returns to the U.S. to reconcile with his family and friends(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy\/Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190523063500 +0000" stop="20190523082000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Cooler</sub-title>
+    <desc lang="en">The unluckiest man in Vegas sees his luck change when he falls in love(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy\/Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190523082000 +0000" stop="20190523100000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Waking Ned Devine</sub-title>
+    <desc lang="en">Two friends attempt to get their greedy hands on a dead man's winning lottery ticket(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523100000 +0000" stop="20190523110200 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Every Brilliant Thing</title>
+    <desc lang="en">One-man show about depression, suicide and the lengths to which people go for loved ones(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190523110200 +0000" stop="20190523123700 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Griff the Invisible</sub-title>
+    <desc lang="en">Office worker by day, superhero by night, Griff meets Melody, a scientist(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190523123700 +0000" stop="20190523141500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Secret Window</sub-title>
+    <desc lang="en">Mort Rainey, a writer just coming off of a troublesome divorce with his ex-wife, Amy, finds himself stalked at his remote lake house by a psychotic stranger who claims Mort stole his best story idea(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190523141500 +0000" stop="20190523155500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Mean Girls</sub-title>
+    <desc lang="en">A new student is a hit with the popular crowd until she falls for the wrong guy(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy\/Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190523155500 +0000" stop="20190523174000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Life of the Party</sub-title>
+    <desc lang="en">With her daughter finally off to college, a middle-aged mother decides to return to finish her own education, which she gave up to raise her family. She soon embraces the college lifestyle that she never got the opportunity to enjoy in her youth(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190523174000 +0000" stop="20190523200000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Color of Night</sub-title>
+    <desc lang="en">A psychologist begins a dangerous affair with one of his murdered colleague's patients(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Suspense</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190523200000 +0000" stop="20190523204000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Barry</title>
+    <sub-title lang="en">berkman &gt; block</sub-title>
+    <desc lang="en">Barry is out for vengeance; Sally takes an acting detour(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190523204000 +0000" stop="20190523220000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">What's My Name: Muhammad Ali</title>
+    <desc lang="en">The incredible journey of Muhammad Ali--from world champion fighter to conscientious objector and social activist--is explored through new archive material(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190523220000 +0000" stop="20190524000000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Collateral</sub-title>
+    <desc lang="en">Cab driver Max Durocher's dreams of owning his own limo company are threatened when he agrees to drive a stranger to five locations. He soon finds himself involved with the criminal activities of a contract killer(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190524000000 +0000" stop="20190524010500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Chernobyl</title>
+    <desc lang="en">This series dramatizes the Chernobyl nuclear accident(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524010500 +0000" stop="20190524014200 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Barry</title>
+    <sub-title lang="en">berkman &gt; block</sub-title>
+    <desc lang="en">Barry is out for vengeance; Sally takes an acting detour(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190524014200 +0000" stop="20190524021500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Wyatt Cenac: Problem Areas</title>
+    <desc lang="en">Wyatt embarks on a journey to understand issues and investigate real-world solutions(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524021500 +0000" stop="20190524024500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">On Tour With Asperger's R Us</title>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524024500 +0000" stop="20190524031500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">On Tour With Asperger's R Us</title>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524031500 +0000" stop="20190524045500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Nun</sub-title>
+    <desc lang="en">A priest with a past that haunts him and a novitiate on the brink of her final vows travel to a remote Romanian abbey on orders from the Vatican to investigate a nun's death, risking their lives and their souls when they encounter an evil force(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524045500 +0000" stop="20190524060000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">My Dad Wrote a Porno</title>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190524060000 +0000" stop="20190524074500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">A Fantastic Fear of Everything</sub-title>
+    <desc lang="en">A crime writer's research into Victorian-era serial killers has left him with a growing paranoia that he's constantly about to be murdered. When a Hollywood executive takes an interest in his script, he is forced to confront the demons that plague him(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190524074500 +0000" stop="20190524080000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">HBO First Look</title>
+    <sub-title lang="en">Tolkien</sub-title>
+    <desc lang="en">A behind-the-scenes look at film productions(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190524080000 +0000" stop="20190524093000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Stay Alive</sub-title>
+    <desc lang="en">A group of teens discover that the horror video game in their possession is more realistic than they thought, when members of the group begin to die in the same brutal manner they did in the game(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524093000 +0000" stop="20190524110000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Just Visiting</sub-title>
+    <desc lang="en">An 11th century French knight and his squire are transported to modern-day Chicago(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524110000 +0000" stop="20190524133000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Inception</sub-title>
+    <desc lang="en">A skilled thief has a final shot at redemption if he can execute his toughest job to date. To be reunited with his family, the man must plant an idea into his victim's subconscious(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524133000 +0000" stop="20190524154500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">BlacKkKlansman</sub-title>
+    <desc lang="en">A rookie detective is the first black police officer in his city's history, and it doesn't take long for him to tackle an incredible case: infiltrating the Ku Klux Klan. While he leads the investigation, he recruits a white detective to help(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Biography</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524154500 +0000" stop="20190524173500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Rampage</sub-title>
+    <desc lang="en">A primatologist has a closer bond with George, a friendly gorilla that he's raised since infanthood, than he does with any humans, but when the animal is exposed to a genetic experiment it grows to a massive size and goes on a destructive rampage(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524173500 +0000" stop="20190524191500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Descent</sub-title>
+    <desc lang="en">A group of female friends on an adventure vacation are trapped underground and pursued by a band of shadowy mutant flesh eaters: stranded in a cave with no map, they must battle a foe they can hardly see(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190524191500 +0000" stop="20190524210000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Annapolis</sub-title>
+    <desc lang="en">A brawny young man fulfills his mother's dream by attending the Naval Academy, where he's assigned a pudgy but brilliant roommate. Both men must fight their way to acceptance, including entering the traditional boxing competition(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524210000 +0000" stop="20190524223000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">What's My Name: Muhammad Ali</title>
+    <desc lang="en">The incredible journey of Muhammad Ali--from world champion fighter to conscientious objector and social activist--is explored through new archive material(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190524223000 +0000" stop="20190525000000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Game of Thrones</title>
+    <desc lang="en">Winter is coming and the realm of Westeros is split as its people battle for the throne(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525000000 +0000" stop="20190525015000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Predator</sub-title>
+    <desc lang="en">A curious young boy accidentally triggers the return of the galaxy's deadliest hunters to Earth. The genetically upgraded Predators are stinger, faster and more dangerous than before, and it's up to small group of ex-soldiers to stop the invasion(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525015000 +0000" stop="20190525034500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Bourne Supremacy</sub-title>
+    <desc lang="en">A former CIA assassin from an experimental top-secret program resorts to his training when he is framed for a botched CIA operation(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190525034500 +0000" stop="20190525053000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Reign of Fire</sub-title>
+    <desc lang="en">Two men battle a brood of ancient dragons that have risen in order to dominate Earth(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190525053000 +0000" stop="20190525071000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Nun</sub-title>
+    <desc lang="en">A priest with a past that haunts him and a novitiate on the brink of her final vows travel to a remote Romanian abbey on orders from the Vatican to investigate a nun's death, risking their lives and their souls when they encounter an evil force(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190525071000 +0000" stop="20190525080500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Real Time With Bill Maher</title>
+    <desc lang="en">The outspoken comedian discusses hot topics(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVM</value>
+    </rating>
+  </programme>
+  <programme start="20190525080500 +0000" stop="20190525084000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Wyatt Cenac: Problem Areas</title>
+    <desc lang="en">Wyatt embarks on a journey to understand issues and investigate real-world solutions(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525084000 +0000" stop="20190525092000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Tour de Pharmacy</title>
+    <desc lang="en">Chronicling the prevalence of doping in the world of professional cycling(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525092000 +0000" stop="20190525110500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Ghosts of Girlfriends Past</sub-title>
+    <desc lang="en">A bachelor is living his dream of being a big city photographer, taking pictures of beautiful women. He dates many women for brief periods of time and leaves them. At his brother's wedding, ghosts of his exes visit him to show him the error of his ways(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190525110500 +0000" stop="20190525112000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">HBO First Look</title>
+    <sub-title lang="en">John Wick Chapter 3: Parabellum</sub-title>
+    <desc lang="en">A behind-the-scenes look at film productions(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525112000 +0000" stop="20190525134000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Hulk</sub-title>
+    <desc lang="en">A geneticist's experimental accident curses him with the tendency to become a powerful giant green brute under emotional stress(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190525134000 +0000" stop="20190525152500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Uncle Drew</sub-title>
+    <desc lang="en">After his team of street basketball players is poached by his rival, a team manager recruits the legendary Uncle Drew, a septuagenarian and former legend, to help him win an important tournament, but Uncle Drew insists that he needs his old team(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190525152500 +0000" stop="20190525160000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Barry</title>
+    <sub-title lang="en">berkman &gt; block</sub-title>
+    <desc lang="en">Barry is out for vengeance; Sally takes an acting detour(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525160000 +0000" stop="20190525165700 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Game of Thrones</title>
+    <sub-title lang="en">Winterfell</sub-title>
+    <desc lang="en">Arriving at Winterfell, Jon and Daenerys struggle to unite a divided North(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525165700 +0000" stop="20190525175700 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Game of Thrones</title>
+    <sub-title lang="en">A Knight of the Seven Kingdoms</sub-title>
+    <desc lang="en">Jaime faces judgement and Winterfell prepares for the battle to come(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525175700 +0000" stop="20190525191900 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Game of Thrones</title>
+    <sub-title lang="en">The Long Night</sub-title>
+    <desc lang="en">Winterfell fights the Army of the Dead(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525191900 +0000" stop="20190525203900 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Game of Thrones</title>
+    <sub-title lang="en">The Last of the Starks</sub-title>
+    <desc lang="en">In the wake of a costly victory, Jon and Daenerys look to the south as Tyrion eyes a compromise that could save countless lives(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525203900 +0000" stop="20190525220100 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Game of Thrones</title>
+    <sub-title lang="en">The Bells</sub-title>
+    <desc lang="en">Daenerys and Cersei weigh their options as an epic conflict looms at King\u2019s Landing(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525220100 +0000" stop="20190525232000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Game of Thrones</title>
+    <desc lang="en">Winter is coming and the realm of Westeros is split as its people battle for the throne(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190525232000 +0000" stop="20190526001500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Big Little Lies</title>
+    <sub-title lang="en">Somebody's Dead</sub-title>
+    <desc lang="en">In an affluent community, a suspicious death at an elementary school fundraiser draws attention to the friction amongst some of the mothers. Madeline and Celeste welcome Jane into their inner circle and battle lines are drawn after an incident(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190526001500 +0000" stop="20190526011500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Gentleman Jack</title>
+    <sub-title lang="en">I was just passing</sub-title>
+    <desc lang="en">Rejected by her would-be companion Vere Hobart, Anne Lister returns to her shabby ancestral home, Shibden Hall, determined to restore its fortunes and find herself a wife(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526011500 +0000" stop="20190526021500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Real Sports With Bryant Gumbel</title>
+    <desc lang="en">Goes beyond the scores and statistics to present a critical look at the world of sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190526021500 +0000" stop="20190526034500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Breaking In</sub-title>
+    <desc lang="en">While setting her late father's estate in his fortress-like house, a mother is trapped outside when would-be burglars activate the security system and lock the house down. With her children on the inside, she stops at nothing to rescue them(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526034500 +0000" stop="20190526041500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Wyatt Cenac: Problem Areas</title>
+    <desc lang="en">Wyatt embarks on a journey to understand issues and investigate real-world solutions(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526041500 +0000" stop="20190526044500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Last Week Tonight With John Oliver</title>
+    <desc lang="en">Comedian John Oliver offers his satirical take on news, current events and politics(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526044500 +0000" stop="20190526063000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Hide and Seek</sub-title>
+    <desc lang="en">Following his wife's suicide, a psychologist and his young daughter, Emily, move to the country where mysterious events begin to occur at the same time that Emily finds comfort in her seemingly-imaginary friend, Charlie(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190526063000 +0000" stop="20190526083000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Book of Eli</sub-title>
+    <desc lang="en">A drifter in a post-apocalyptic society travels across America, protecting the last copy of the King James Bible in order to deliver it to the west coast so it can help save humanity. However, an evil gang lord seeks to take the book for himself(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Adventure</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526083000 +0000" stop="20190526093000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Amanda Seales: I Be Knowin'</title>
+    <desc lang="en">Comedian Amanda Seales of HBO's 'Insecure' stars in her first hour-long comedy special, taped at the Edison Ballroom in New York(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190526093000 +0000" stop="20190526094500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">HBO First Look</title>
+    <sub-title lang="en">John Wick Chapter 3: Parabellum</sub-title>
+    <desc lang="en">A behind-the-scenes look at film productions(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526094500 +0000" stop="20190526120000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">He's Just Not That Into You</sub-title>
+    <desc lang="en">Several young women and men, from committed relationships and singles, try to understand the signals and the intentions of the other sex. A variety of situations and misunderstandings develop the truth about dating in the modern world(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526120000 +0000" stop="20190526130000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Gentleman Jack</title>
+    <sub-title lang="en">I was just passing</sub-title>
+    <desc lang="en">Rejected by her would-be companion Vere Hobart, Anne Lister returns to her shabby ancestral home, Shibden Hall, determined to restore its fortunes and find herself a wife(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526130000 +0000" stop="20190526140000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Gentleman Jack</title>
+    <sub-title lang="en">I just went there to study anatomy</sub-title>
+    <desc lang="en">Lister begins a playful but dangerous courtship of Ann Walker, who soon finds herself captivated by her charismatic and unusual neighbor(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190526140000 +0000" stop="20190526150000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Gentleman Jack</title>
+    <sub-title lang="en">Oh is that what you call it?</sub-title>
+    <desc lang="en">Lister confides her hopes for a future with Ann Walker to her aunt, as Ann's neighbour, Mrs. Priestley, has an inkling about the two women's relationship that presents a threat(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526150000 +0000" stop="20190526160000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Gentleman Jack</title>
+    <sub-title lang="en">Most women are dull and stupid</sub-title>
+    <desc lang="en">When news of a friend\u2019s death arrives, Ann\u2019s desperate reaction makes Lister suspect that she has secrets of her own. Lister steps up her plan to re-open her old coal mines(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526160000 +0000" stop="20190526170500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Gentleman Jack</title>
+    <sub-title lang="en">Let's have another look at your past perfect</sub-title>
+    <desc lang="en">The widowed Reverend Ainsworth arrives in Halifax, and with encouragement from Mrs. Priestley, sets his sights on Ann Walker(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526170500 +0000" stop="20190526190000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Night School</sub-title>
+    <desc lang="en">A man who's tired of his dead-end life and humiliating job signs up for night school so that he can pass the GED exam and finally be a high school graduate, but with an eclectic group of students the teacher turns to unconventional ways of teaching(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190526190000 +0000" stop="20190526201100 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">The Case Against Adnan Syed</title>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526201100 +0000" stop="20190526211800 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">The Case Against Adnan Syed</title>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526211800 +0000" stop="20190526222700 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">The Case Against Adnan Syed</title>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526222700 +0000" stop="20190526233000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">The Case Against Adnan Syed</title>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190526233000 +0000" stop="20190527000000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Wyatt Cenac: Problem Areas</title>
+    <desc lang="en">Wyatt embarks on a journey to understand issues and investigate real-world solutions(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527000000 +0000" stop="20190527014500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">A Fantastic Fear of Everything</sub-title>
+    <desc lang="en">A crime writer's research into Victorian-era serial killers has left him with a growing paranoia that he's constantly about to be murdered. When a Hollywood executive takes an interest in his script, he is forced to confront the demons that plague him(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190527014500 +0000" stop="20190527034500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Collateral</sub-title>
+    <desc lang="en">Cab driver Max Durocher's dreams of owning his own limo company are threatened when he agrees to drive a stranger to five locations. He soon finds himself involved with the criminal activities of a contract killer(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190527034500 +0000" stop="20190527052500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Hangover</sub-title>
+    <desc lang="en">Two days before his wedding, three friends decide to take a groom to Las Vegas. Since the bride-to-be doesn't approve of bachelor parties, the men lie to her about their trip. After a wild night of partying, the guys wake up to find the groom missing(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190527052500 +0000" stop="20190527065000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Jonah Hex</sub-title>
+    <desc lang="en">A bounty hunter, with warrants out for his own arrest, is hired by the United States military. In exchange for his freedom, the bounty hunter must stop a terrorist from unleashing hell on Earth(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190527065000 +0000" stop="20190527085500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Best Man</sub-title>
+    <desc lang="en">A wedding celebration is disrupted by a revealing novel that was written by the best man(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190527085500 +0000" stop="20190527103000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Bootmen</sub-title>
+    <desc lang="en">An Australian steel worker joins a well-known dance troupe to escape his dead-end job(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190527103000 +0000" stop="20190527113000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Real Time With Bill Maher</title>
+    <desc lang="en">The outspoken comedian discusses hot topics(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVM</value>
+    </rating>
+  </programme>
+  <programme start="20190527113000 +0000" stop="20190527120000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Last Week Tonight With John Oliver</title>
+    <desc lang="en">Comedian John Oliver offers his satirical take on news, current events and politics(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190527120000 +0000" stop="20190527140000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Courage Under Fire</sub-title>
+    <desc lang="en">An officer must investigate the death of a female captain to determine whether she qualifies for the Medal of Honor, all the while facing his own demons(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190527140000 +0000" stop="20190527154500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">41</title>
+    <desc lang="en">A rare, intimate glimpse at the life and times of the 41st President of the United States, as told by George Herbert Walker Bush in his own words(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190527154500 +0000" stop="20190527174500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Green Zone</sub-title>
+    <desc lang="en">After learning of covert and incorrect intelligence, a U.S. Army officer goes rogue as he searches for weapons of mass destruction(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190527174500 +0000" stop="20190527193000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">John McCain: For Whom the Bell Tolls</title>
+    <desc lang="en">We take a closer look at the life of John McCain and his service in the US Senate(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190527193000 +0000" stop="20190527214500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">12 Strong</sub-title>
+    <desc lang="en">A U.S. Special Forces team is sent to Afghanistan to secure local allies following the terrorist attacks of 9\/11. Led by their new captain, the 12 men struggle with the difficult terrain, a vast cultural divide and a numerically superior enemy(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190527214500 +0000" stop="20190527224500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Chernobyl</title>
+    <desc lang="en">This series dramatizes the Chernobyl nuclear accident(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190527224500 +0000" stop="20190527235000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Chernobyl</title>
+    <desc lang="en">This series dramatizes the Chernobyl nuclear accident(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190527235000 +0000" stop="20190528010000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Chernobyl</title>
+    <desc lang="en">This series dramatizes the Chernobyl nuclear accident(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528010000 +0000" stop="20190528034500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Miracle at St. Anna</sub-title>
+    <desc lang="en">Four African-American soldiers find themselves trapped in Italy by German soldiers(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190528034500 +0000" stop="20190528053500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Predator</sub-title>
+    <desc lang="en">A curious young boy accidentally triggers the return of the galaxy's deadliest hunters to Earth. The genetically upgraded Predators are stinger, faster and more dangerous than before, and it's up to small group of ex-soldiers to stop the invasion(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190528053500 +0000" stop="20190528072500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Get Him to the Greek</sub-title>
+    <desc lang="en">A record company hires an intern to accompany an out-of-control rock star to Los Angeles for a concert. The intern struggles to navigate the musician through wild parties and strip clubs in London, New York and Las Vegas(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528072500 +0000" stop="20190528085500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Liability</sub-title>
+    <desc lang="en">A young man gets taken through dangerous world when he has to drive his mom's gangster's boyfriend around(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Crime Story</category>
+  </programme>
+  <programme start="20190528085500 +0000" stop="20190528103000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Griff the Invisible</sub-title>
+    <desc lang="en">Office worker by day, superhero by night, Griff meets Melody, a scientist(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528103000 +0000" stop="20190528121500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Our Family Wedding</sub-title>
+    <desc lang="en">A young couple's upcoming wedding day is threatened by the antics of their competitive fathers(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528121500 +0000" stop="20190528142000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Valentine's Day</sub-title>
+    <desc lang="en">A stellar cast stars in this comedy, which follows friends in the Los Angeles area, both single and married, who are attempting to navigate the perils and pitfalls of Valentine's Day. While some meet the high expectations, others crack under pressure(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528142000 +0000" stop="20190528161500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Repo Men</sub-title>
+    <desc lang="en">In a future where artificial organs can be bought on credit, if the payments aren't made, they will be repossessed. When a repo man can't make the payments on his artificial heart, he must go on the run before his former partner tracks him down(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190528161500 +0000" stop="20190528180500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Veronica Mars</sub-title>
+    <desc lang="en">A former teenage private eye returns to her hometown when her ex-boyfriend calls to tell her he has been wrongfully accused of murder(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy\/Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528180500 +0000" stop="20190528194000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">My Big Fat Greek Wedding</sub-title>
+    <desc lang="en">A Greek girl falls in love with a non-Greek man, which creates havoc amongst her family(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528194000 +0000" stop="20190528211500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Stepford Wives</sub-title>
+    <desc lang="en">A former executive uncovers the dark secret behind the seemingly perfect town of Stepford(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <category lang="en">Comedy\/Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190528211500 +0000" stop="20190528215000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Last Week Tonight With John Oliver</title>
+    <desc lang="en">Comedian John Oliver offers his satirical take on news, current events and politics(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528215000 +0000" stop="20190528233000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Nun</sub-title>
+    <desc lang="en">A priest with a past that haunts him and a novitiate on the brink of her final vows travel to a remote Romanian abbey on orders from the Vatican to investigate a nun's death, risking their lives and their souls when they encounter an evil force(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190528233000 +0000" stop="20190529000000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">The Shop</title>
+    <sub-title lang="en">Uninterrupted</sub-title>
+    <desc lang="en">Unfiltered conversation and debate from the biggest names in sports and entertainment(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190529000000 +0000" stop="20190529010500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Chernobyl</title>
+    <desc lang="en">This series dramatizes the Chernobyl nuclear accident(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529010500 +0000" stop="20190529020500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Gentleman Jack</title>
+    <sub-title lang="en">Do ladies do that?</sub-title>
+    <desc lang="en">With Ann Walker\u2019s mental state in a downward spiral, Lister is forced to contemplate travelling to Europe alone, despite her family\u2019s warnings(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529020500 +0000" stop="20190529040000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Game of Thrones: The Last Watch</title>
+    <desc lang="en">For a year, acclaimed British filmmaker Jeanie Finlay was embedded on the set of the hit HBO series 'Game of Thrones,' chronicling the creation of the show\u2019s ambitious and complicated final season(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529040000 +0000" stop="20190529054500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Blockers</sub-title>
+    <desc lang="en">Three parents try to stop their daughters from losing their virginity on prom night(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190529054500 +0000" stop="20190529072500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Tanner Hall</sub-title>
+    <desc lang="en">Four teenage girls learn about life while living in an all-girls boarding school in New England(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190529072500 +0000" stop="20190529074000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">HBO First Look</title>
+    <sub-title lang="en">Tolkien</sub-title>
+    <desc lang="en">A behind-the-scenes look at film productions(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190529074000 +0000" stop="20190529100000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Color of Night</sub-title>
+    <desc lang="en">A psychologist begins a dangerous affair with one of his murdered colleague's patients(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Suspense</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190529100000 +0000" stop="20190529114500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Reign of Fire</sub-title>
+    <desc lang="en">Two men battle a brood of ancient dragons that have risen in order to dominate Earth(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529114500 +0000" stop="20190529140000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">The Prestige</sub-title>
+    <desc lang="en">The rivalry between two magicians leads them on a life-long battle for supremacy full of obsession, deceit and jealousy with dangerous and deadly consequences(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529140000 +0000" stop="20190529154500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Dawn of the Dead</sub-title>
+    <desc lang="en">Survivors of a zombie plague take refuge in a shopping mall. When their security is breeched, they must implement their escape plan to survive(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190529154500 +0000" stop="20190529175000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Game of Thrones: The Last Watch</title>
+    <desc lang="en">For a year, acclaimed British filmmaker Jeanie Finlay was embedded on the set of the hit HBO series 'Game of Thrones,' chronicling the creation of the show\u2019s ambitious and complicated final season(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529175000 +0000" stop="20190529192500 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Beyond the Reach</sub-title>
+    <desc lang="en">During a hunting trip in the Mojave Desert, a dangerous game is played by a corporate shark and his poor young guide(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190529192500 +0000" stop="20190529211000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">A Fantastic Fear of Everything</sub-title>
+    <desc lang="en">A crime writer's research into Victorian-era serial killers has left him with a growing paranoia that he's constantly about to be murdered. When a Hollywood executive takes an interest in his script, he is forced to confront the demons that plague him(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20190529211000 +0000" stop="20190529225000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Movie</title>
+    <sub-title lang="en">Secret Window</sub-title>
+    <desc lang="en">Mort Rainey, a writer just coming off of a troublesome divorce with his ex-wife, Amy, finds himself stalked at his remote lake house by a psychotic stranger who claims Mort stole his best story idea(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20190529225000 +0000" stop="20190530000000 +0000" channel="HBO 2 - Eastern Feed">
+    <title lang="en">Chernobyl</title>
+    <desc lang="en">This series dramatizes the Chernobyl nuclear accident(n)</desc>
+    <category lang="en">Drama</category>
     <rating system="US">
       <value>TV14</value>
     </rating>
