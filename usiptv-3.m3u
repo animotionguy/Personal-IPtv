@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,SPORTS: NBA TV
+http://tvprocessing.net:3030/live/demo/demo/3.ts
+#EXTINF:-1,SPORTS: NFL Network
+http://tvprocessing.net:3030/live/demo/demo/1.ts
+#EXTINF:-1,SPORTS: NHL Network
+http://tvprocessing.net:3030/live/demo/demo/2.ts
