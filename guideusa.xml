@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="https://geniptv.com/">
+  <channel id="5 StarMAX Eastern US">
+    <display-name lang="en">5 StarMAX Eastern US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="AandE US">
+    <display-name lang="en">AandE US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="ABC Eastern US">
+    <display-name lang="en">ABC Eastern US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="ActionMAX Eastern US">
+    <display-name lang="en">ActionMAX Eastern US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="AMC US">
+    <display-name lang="en">AMC US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Animal Planet US">
+    <display-name lang="en">Animal Planet US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="beIN Sport HD US">
+    <display-name lang="en">beIN Sport HD US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Bravo US">
+    <display-name lang="en">Bravo US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="C-Span 1 US">
+    <display-name lang="en">C-Span 1 US</display-name>
+    <icon src="https://services.timewarnercable.com/imageserver/guide/CSPAN?width=64&amp;default=false&amp;apikey=4c314c50212311e6af3da92bd05a0a87" />
+    <url>http://www.tv.twcc.com</url>
+  </channel>
+  <channel id="C-Span 2 US">
+    <display-name lang="en">C-Span 2 US</display-name>
+    <icon src="https://services.timewarnercable.com/imageserver/guide/CSPAN2?width=64&amp;default=false&amp;apikey=4c314c50212311e6af3da92bd05a0a87" />
+    <url>http://www.tv.twcc.com</url>
+  </channel>
+  <channel id="C-Span 3 US">
+    <display-name lang="en">C-Span 3 US</display-name>
+    <icon src="https://services.timewarnercable.com/imageserver/guide/CSPAN3?width=64&amp;default=false&amp;apikey=4c314c50212311e6af3da92bd05a0a87" />
+    <url>http://www.tv.twcc.com</url>
+  </channel>
+  <channel id="Cartoon Network US">
+    <display-name lang="en">Cartoon Network US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="CBS Eastern US">
+    <display-name lang="en">CBS Eastern US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="CineMAX Eastern US">
+    <display-name lang="en">CineMAX Eastern US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="CNBC US">
+    <display-name lang="en">CNBC US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="CNN HD US">
+    <display-name lang="en">CNN HD US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Comedy Central HD Eastern US">
+    <display-name lang="en">Comedy Central HD Eastern US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Deutsche Welle TV US">
+    <display-name lang="en">Deutsche Welle TV US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Discovery Science US">
+    <display-name lang="en">Discovery Science US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Discovery Velocity US">
+    <display-name lang="en">Discovery Velocity US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Discovery Channel US">
+    <display-name lang="en">Discovery Channel US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="DIY US">
+    <display-name lang="en">DIY US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="E! US">
+    <display-name lang="en">E! US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="ESPN 1 US">
+    <display-name lang="en">ESPN 1 US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="ESPN 2 US">
+    <display-name lang="en">ESPN 2 US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Fashion Television US">
+    <display-name lang="en">Fashion Television US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Fight Network US">
+    <display-name lang="en">Fight Network US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Food Network HD US">
+    <display-name lang="en">Food Network HD US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="FOX HD US">
+    <display-name lang="en">FOX HD US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="FOX News US">
+    <display-name lang="en">FOX News US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="FOX Sports 1 US">
+    <display-name lang="en">FOX Sports 1 US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="FOX Sports 2 US">
+    <display-name lang="en">FOX Sports 2 US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Freeform US">
+    <display-name lang="en">Freeform US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="FX US">
+    <display-name lang="en">FX US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="FXX US">
+    <display-name lang="en">FXX US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Global BC US">
+    <display-name lang="en">Global BC US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Global Calgary US">
+    <display-name lang="en">Global Calgary US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Global Edmonton US">
+    <display-name lang="en">Global Edmonton US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Global US">
+    <display-name lang="en">Global US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Golf Channel US">
+    <display-name lang="en">Golf Channel US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="H2 US">
+    <display-name lang="en">H2 US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Hallmark Channel US">
+    <display-name lang="en">Hallmark Channel US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="HBO 1 US">
+    <display-name lang="en">HBO 1 US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="HBO 2 US">
+    <display-name lang="en">HBO 2 US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="HBO Comedy US">
+    <display-name lang="en">HBO Comedy US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="HBO East US">
+    <display-name lang="en">HBO East US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="HBO Family US">
+    <display-name lang="en">HBO Family US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="HBO Signature US">
+    <display-name lang="en">HBO Signature US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="HBO Zone US">
+    <display-name lang="en">HBO Zone US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="HGTV US">
+    <display-name lang="en">HGTV US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="HIFI US">
+    <display-name lang="en">HIFI US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="History East US">
+    <display-name lang="en">History East US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="MLB Network US">
+    <display-name lang="en">MLB Network US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="MoreMAX Eastern US">
+    <display-name lang="en">MoreMAX Eastern US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="MSNBC HD US">
+    <display-name lang="en">MSNBC HD US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="National Geographic US">
+    <display-name lang="en">National Geographic US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NBA TV US">
+    <display-name lang="en">NBA TV US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NBC East US">
+    <display-name lang="en">NBC East US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NBC Sports Network US">
+    <display-name lang="en">NBC Sports Network US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NFL US">
+    <display-name lang="en">NFL US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NHL US">
+    <display-name lang="en">NHL US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Outdoor Channel US">
+    <display-name lang="en">Outdoor Channel US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Showtime 2 US">
+    <display-name lang="en">Showtime 2 US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Showtime Beyond US">
+    <display-name lang="en">Showtime Beyond US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Showtime Extreme US">
+    <display-name lang="en">Showtime Extreme US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Showtime Showcase US">
+    <display-name lang="en">Showtime Showcase US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Showtime US">
+    <display-name lang="en">Showtime US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Space US">
+    <display-name lang="en">Space US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Spike US">
+    <display-name lang="en">Spike US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Sportsnet 360 US">
+    <display-name lang="en">Sportsnet 360 US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Sportsnet One US">
+    <display-name lang="en">Sportsnet One US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Sportsnet Ontario US">
+    <display-name lang="en">Sportsnet Ontario US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Sportsnet World US">
+    <display-name lang="en">Sportsnet World US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Starz Cinema US">
+    <display-name lang="en">Starz Cinema US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Starz Comedy US">
+    <display-name lang="en">Starz Comedy US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Starz East US">
+    <display-name lang="en">Starz East US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Starz Edge US">
+    <display-name lang="en">Starz Edge US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Starz Encore US">
+    <display-name lang="en">Starz Encore US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Starz In Black US">
+    <display-name lang="en">Starz In Black US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Starz Kids and Family US">
+    <display-name lang="en">Starz Kids and Family US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Syfy US">
+    <display-name lang="en">Syfy US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="TBS US">
+    <display-name lang="en">TBS US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="TNT US">
+    <display-name lang="en">TNT US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="TSN1 US">
+    <display-name lang="en">TSN1 US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="TSN2 US">
+    <display-name lang="en">TSN2 US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="TSN3 US">
+    <display-name lang="en">TSN3 US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="TSN4 US">
+    <display-name lang="en">TSN4 US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="TSN5 US">
+    <display-name lang="en">TSN5 US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="USA Network HD US">
+    <display-name lang="en">USA Network HD US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Versus US">
+    <display-name lang="en">Versus US</display-name>
+    <icon src="https://services.timewarnercable.com/imageserver/guide/NBCSN?width=64&amp;default=false&amp;apikey=4c314c50212311e6af3da92bd05a0a87" />
+    <url>http://www.tv.twcc.com</url>
+  </channel>
+  <channel id="VH1 Classic US">
+    <display-name lang="en">VH1 Classic US</display-name>
+    <icon src="https://services.timewarnercable.com/imageserver/guide/MTVCLAS?width=64&amp;default=false&amp;apikey=4c314c50212311e6af3da92bd05a0a87" />
+    <url>http://www.tv.twcc.com</url>
+  </channel>
+  <channel id="VH1 US">
+    <display-name lang="en">VH1 US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="WWE Net Pak US">
+    <display-name lang="en">WWE Net Pak US</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+</tv>
