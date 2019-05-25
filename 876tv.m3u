@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://discoverflow.co/widgets/limetv/channelflow/images/channel-logos/hypetv-logo.jpg" group-title="LOCAL",Hype! TV
 http://161.0.157.9/PLTV/88888888/224/3221226726/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/rmk-Pryx74g/maxresdefault.jpg" group-title="JAMAICA",Mello TV
+https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.wp.com/wp-content/themes/vip/bigtennetwork/img/logo.png" group-title="US",BTN
 http://161.0.157.5/PLTV/88888888/224/3221226177/index.m3u8
 #EXTINF:-1 tvg-id="	ABC7KABCTV.us" tvg-name="ABC 7 LA US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KGOTVABC7.png/800px-KGOTVABC7.png" group-title="US",ABC 7 LA
