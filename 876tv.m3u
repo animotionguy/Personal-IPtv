@@ -31,3 +31,5 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 http://espn.tmedia.me/cache/mtv.m3u8
 #EXTINF:-1 tvg-id="NBC6WTVJ.us" tvg-name="NBC 6 Miami US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/WTVJ_2009_Logo.png" group-title="US",NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(Eastern)VH1 (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="USA",VH1 (Opt-2)
+http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?

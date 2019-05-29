@@ -1323,16 +1323,6 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190529195500 -0400" stop="20190529220000 -0400" channel="HBO 2 [Panamerican English]">
-    <title lang="en">The Hitman's Bodyguard</title>
-    <desc lang="en">A professional bodyguard must protect his longtime nemesis, a ruthless hit man, after the latter agrees to testify at the Hague against a dictator. The bickering pair team up to defeat the dictator's henchmen as they embark on a journey across Europe. (cc)(n)</desc>
-    <date>2017</date>
-    <category lang="en">movie</category>
-    <icon src="http://static.tvgcdn.net/feed/1/163/thumbs/117628163_300x401.jpg" />
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-  </programme>
   <programme start="20190529220000 -0400" stop="20190529230000 -0400" channel="HBO 2 [Panamerican English]">
     <title lang="en">Gentleman Jack</title>
     <sub-title lang="en">"Let's have another look at your past perfect"</sub-title>
