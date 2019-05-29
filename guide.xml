@@ -4,6 +4,14 @@
     <display-name lang="en">Hype TV</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
+  <channel id="Mello TV HDTV">
+    <display-name lang="en">Mello TV HDTV</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
+  <channel id="HBO Caribbean">
+    <display-name lang="en">HBO Caribbean</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
   <channel id="HBO 2 [Panamerican English]">
     <display-name lang="en">HBO 2 [Panamerican English]</display-name>
     <url>http://www.tvguide.com</url>
@@ -23,6 +31,1297 @@
   <programme start="20190603040000 -0400" stop="20190604040000 -0400" channel="Hype TV">
     <title lang="en">Hype TV</title>
     <desc lang="en">(cc)(n)</desc>
+  </programme>
+  <programme start="20190529190000 -0400" stop="20190529200000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190529200000 -0400" stop="20190529210000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190529210000 -0400" stop="20190529220000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190529220000 -0400" stop="20190529230000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190529230000 -0400" stop="20190530000000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530000000 -0400" stop="20190530010000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530010000 -0400" stop="20190530020000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530020000 -0400" stop="20190530030000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530030000 -0400" stop="20190530040000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530040000 -0400" stop="20190530050000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530050000 -0400" stop="20190530060000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530060000 -0400" stop="20190530070000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530070000 -0400" stop="20190530080000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530080000 -0400" stop="20190530090000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530090000 -0400" stop="20190530100000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530100000 -0400" stop="20190530110000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530110000 -0400" stop="20190530120000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530120000 -0400" stop="20190530130000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530130000 -0400" stop="20190530140000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530140000 -0400" stop="20190530150000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530150000 -0400" stop="20190530160000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530160000 -0400" stop="20190530170000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530170000 -0400" stop="20190530180000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530180000 -0400" stop="20190530190000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530190000 -0400" stop="20190530200000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530200000 -0400" stop="20190530210000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530210000 -0400" stop="20190530220000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530220000 -0400" stop="20190530230000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190530230000 -0400" stop="20190531000000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531000000 -0400" stop="20190531010000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531010000 -0400" stop="20190531020000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531020000 -0400" stop="20190531030000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531030000 -0400" stop="20190531040000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531040000 -0400" stop="20190531050000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531050000 -0400" stop="20190531060000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531060000 -0400" stop="20190531070000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531070000 -0400" stop="20190531080000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531080000 -0400" stop="20190531090000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531090000 -0400" stop="20190531100000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531100000 -0400" stop="20190531110000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531110000 -0400" stop="20190531120000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531120000 -0400" stop="20190531130000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531130000 -0400" stop="20190531140000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531140000 -0400" stop="20190531150000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531150000 -0400" stop="20190531160000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531160000 -0400" stop="20190531170000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531170000 -0400" stop="20190531180000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531180000 -0400" stop="20190531190000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531190000 -0400" stop="20190531200000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531200000 -0400" stop="20190531210000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531210000 -0400" stop="20190531220000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531220000 -0400" stop="20190531230000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190531230000 -0400" stop="20190601000000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601000000 -0400" stop="20190601010000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601010000 -0400" stop="20190601020000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601020000 -0400" stop="20190601030000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601030000 -0400" stop="20190601040000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601040000 -0400" stop="20190601050000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601050000 -0400" stop="20190601060000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601060000 -0400" stop="20190601070000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601070000 -0400" stop="20190601080000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601080000 -0400" stop="20190601090000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601090000 -0400" stop="20190601100000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601100000 -0400" stop="20190601110000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601110000 -0400" stop="20190601120000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601120000 -0400" stop="20190601130000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601130000 -0400" stop="20190601140000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601140000 -0400" stop="20190601150000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601150000 -0400" stop="20190601160000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601160000 -0400" stop="20190601170000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601170000 -0400" stop="20190601180000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601180000 -0400" stop="20190601190000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601190000 -0400" stop="20190601200000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601200000 -0400" stop="20190601210000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601210000 -0400" stop="20190601220000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601220000 -0400" stop="20190601230000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190601230000 -0400" stop="20190602000000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602000000 -0400" stop="20190602010000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602010000 -0400" stop="20190602020000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602020000 -0400" stop="20190602030000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602030000 -0400" stop="20190602040000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602040000 -0400" stop="20190602050000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602050000 -0400" stop="20190602060000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602060000 -0400" stop="20190602070000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602070000 -0400" stop="20190602080000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602080000 -0400" stop="20190602090000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602090000 -0400" stop="20190602100000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602100000 -0400" stop="20190602110000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602110000 -0400" stop="20190602120000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602120000 -0400" stop="20190602130000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602130000 -0400" stop="20190602140000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602140000 -0400" stop="20190602150000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602150000 -0400" stop="20190602160000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602160000 -0400" stop="20190602170000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602170000 -0400" stop="20190602180000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602180000 -0400" stop="20190602190000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602190000 -0400" stop="20190602200000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602200000 -0400" stop="20190602210000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602210000 -0400" stop="20190602220000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602220000 -0400" stop="20190602230000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190602230000 -0400" stop="20190603000000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603000000 -0400" stop="20190603010000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603010000 -0400" stop="20190603020000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603020000 -0400" stop="20190603030000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603030000 -0400" stop="20190603040000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603040000 -0400" stop="20190603050000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603050000 -0400" stop="20190603060000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603060000 -0400" stop="20190603070000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603070000 -0400" stop="20190603080000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603080000 -0400" stop="20190603090000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603090000 -0400" stop="20190603100000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603100000 -0400" stop="20190603110000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603110000 -0400" stop="20190603120000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603120000 -0400" stop="20190603130000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603130000 -0400" stop="20190603140000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603140000 -0400" stop="20190603150000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603150000 -0400" stop="20190603160000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603160000 -0400" stop="20190603170000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603170000 -0400" stop="20190603180000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603180000 -0400" stop="20190603190000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603190000 -0400" stop="20190603200000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603200000 -0400" stop="20190603210000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603210000 -0400" stop="20190603220000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603220000 -0400" stop="20190603230000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190603230000 -0400" stop="20190604000000 -0400" channel="Mello TV HDTV">
+    <title lang="en">Mello TV</title>
+    <desc lang="en">(cc)(n)</desc>
+    <category lang="en">tvshow</category>
+  </programme>
+  <programme start="20190529205500 -0400" stop="20190529230000 -0400" channel="HBO Caribbean">
+    <title lang="en">Leaving Neverland</title>
+    <date>2019</date>
+    <category lang="en">movie</category>
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190529230000 -0400" stop="20190530010000 -0400" channel="HBO Caribbean">
+    <title lang="en">Mamma Mia! Here We Go Again</title>
+    <desc lang="en">A woman grapples with running her mother's villa while also expecting her first child and worries that she won't be able to handle everything on her own, so she enlists two of her mother's friends for assurance, help and guidance. Along the way, she learns more about her mother's past and how faces a surprise visit from someone she's never met: her own grandmother. (cc)(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/377/thumbs/118573377_300x450.jpg" />
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190530010000 -0400" stop="20190530024000 -0400" channel="HBO Caribbean">
+    <title lang="en">Lady Bird</title>
+    <desc lang="en">In this coming-of-age tale set in 2002 Sacramento, an eccentric teenager attending a Catholic high school deals with the pangs of first love and clashes with her mother over her plans for the future. (cc)(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/812/thumbs/117896812_300x443.jpg" />
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190530024000 -0400" stop="20190530045000 -0400" channel="HBO Caribbean">
+    <title lang="en">Jurassic World Fallen Kingdom</title>
+    <desc lang="en">When a volcano on Isla Nublar threatens to endanger the dinosaurs, Claire recruits Owen to rescue the animals from total extinction. However, upon their arrival, they soon discover a sinister operation is afoot that exploits the animals(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/156/thumbs/118419156_300x398.jpg" />
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190530045000 -0400" stop="20190530055000 -0400" channel="HBO Caribbean">
+    <title lang="en">Gentleman Jack</title>
+    <desc lang="en">A series set in the complex, changing world of 1832 Halifax, West Yorkshire, focuses on landowner Anne Lister, who is determined to transform the fate of her faded ancestral home, Shibden Hall, by reopening the coal mines and marrying well. The charismatic, single-minded, swashbuckling Lister—who dresses head-to-toe in black and charms her way into high society—has no intention of marrying a man. (cc)(n)</desc>
+    <category lang="en">tvshow</category>
+    <icon src="http://static.tvgcdn.net/feed/1/638/thumbs/118984638_300x400.jpg" />
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20190530055000 -0400" stop="20190530073500 -0400" channel="HBO Caribbean">
+    <title lang="en">Truth or Dare</title>
+    <desc lang="en">An innocuous game among friends turns into a fight for survival when a group of friends playing "Truth or Dare" are mysteriously killed if they don't carry out the dare or say the truth. Now, the remaining players must find the person who started the twisted game before it is their turn to die(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/606/thumbs/118370606_300x400.jpg" />
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190530073500 -0400" stop="20190530100500 -0400" channel="HBO Caribbean">
+    <title lang="en">Sex and the City 2</title>
+    <desc lang="en">Pals Carrie (Sarah Jessica Parker), Samantha (Kim Cattrall), Charlotte (Kristin Davis) and Miranda (Cynthia Nixon) venture outside of New York City on an adventurous trip to Abu Dhabi, where they rediscover what life was like before marriage and kids. Directed by Michael Patrick King. (cc)(n)</desc>
+    <date>2010</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/450/thumbs/11971450_300x411.jpg" />
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190530100500 -0400" stop="20190530115500 -0400" channel="HBO Caribbean">
+    <title lang="en">Searching</title>
+    <desc lang="en">A father spirals down an unnerving internet rabbit hole to find his missing daughter in this laptop thriller. Their seemingly idyllic family life in San Jose unravels as he makes increasingly disturbing discoveries about his daughter's secret online activities. (cc)(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/35/thumbs/118634035_300x450.jpg" />
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190530115500 -0400" stop="20190530140000 -0400" channel="HBO Caribbean">
+    <title lang="en">Game of Thrones: The Last Watch</title>
+    <sub-title lang="en">The Last Watch</sub-title>
+    <desc lang="en">An up-close and personal report from the trenches of production that reveals the tears and triumphs of the cast and crew involved in the challenge of bringing the fantasy world of Westeros to life. (cc)(n)</desc>
+    <date>2019</date>
+    <category lang="en">tvshow</category>
+    <icon src="http://static.tvgcdn.net/feed/1/17/thumbs/118967017_300x400.jpg" />
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20190530140000 -0400" stop="20190530155000 -0400" channel="HBO Caribbean">
+    <title lang="en">The Hurricane Heist</title>
+    <desc lang="en">A group of calculating criminals plot to rob a U.S. Mint lying in the trajectory of a quickly approaching Category 5 hurricane. Now, a Treasury Agent and a meteorologist must work together to thwart their plans as the storm rages on(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/474/thumbs/118421474_300x450.jpg" />
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190530155000 -0400" stop="20190530174500 -0400" channel="HBO Caribbean">
+    <title lang="en">Geostorm</title>
+    <desc lang="en">Two scientists race to avert a catastrophe when a series of climate-control satellites begin to malfunction. During their mission, they discover a conspiracy involving the satellites, which were designed to prevent natural disasters on Earth. (cc)(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/153/thumbs/117980153_300x399.jpg" />
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190530174500 -0400" stop="20190530193500 -0400" channel="HBO Caribbean">
+    <title lang="en">Dunkirk</title>
+    <desc lang="en">When 400,000 British and Allied troops end up trapped on the beaches of Dunkirk, France, following a catastrophic defeat during WWII, a number of civilian boats set out to rescue them before they are decimated by the approaching Nazi forces. (cc)(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/856/thumbs/117899856_300x450.jpg" />
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190530193500 -0400" stop="20190530212500 -0400" channel="HBO Caribbean">
+    <title lang="en">Searching</title>
+    <desc lang="en">A father spirals down an unnerving internet rabbit hole to find his missing daughter in this laptop thriller. Their seemingly idyllic family life in San Jose unravels as he makes increasingly disturbing discoveries about his daughter's secret online activities. (cc)(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/35/thumbs/118634035_300x450.jpg" />
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190530212500 -0400" stop="20190530230000 -0400" channel="HBO Caribbean">
+    <title lang="en">Breaking In</title>
+    <desc lang="en">A mother takes her teen children to her late father's high-security countryside home. Several men break in, hold the children hostage, and enable full security to lock her out. She breaks in, desperate to do whatever it takes for her kids' safety(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/43/thumbs/118404043_300x400.jpg" />
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190530230000 -0400" stop="20190531000000 -0400" channel="HBO Caribbean">
+    <title lang="en">Gentleman Jack</title>
+    <desc lang="en">A series set in the complex, changing world of 1832 Halifax, West Yorkshire, focuses on landowner Anne Lister, who is determined to transform the fate of her faded ancestral home, Shibden Hall, by reopening the coal mines and marrying well. The charismatic, single-minded, swashbuckling Lister—who dresses head-to-toe in black and charms her way into high society—has no intention of marrying a man. (cc)(n)</desc>
+    <category lang="en">tvshow</category>
+    <icon src="http://static.tvgcdn.net/feed/1/638/thumbs/118984638_300x400.jpg" />
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20190531000000 -0400" stop="20190531010000 -0400" channel="HBO Caribbean">
+    <title lang="en">Chernobyl</title>
+    <desc lang="en">A dramatization of the story of the 1986 nuclear accident in the Soviet Union, one of the worst man-made catastrophes in history, and of the brave men and women who sacrificed to save Europe from unimaginable disaster, all the while battling a culture of disinformation. (cc)(n)</desc>
+    <date>2019</date>
+    <category lang="en">tvshow</category>
+    <icon src="http://static.tvgcdn.net/mediabin/showcards/tvshows/900000-1000000/thumbs/1095584-chernobyl_300x400.png" />
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20190531010000 -0400" stop="20190531025500 -0400" channel="HBO Caribbean">
+    <title lang="en">Geostorm</title>
+    <desc lang="en">Two scientists race to avert a catastrophe when a series of climate-control satellites begin to malfunction. During their mission, they discover a conspiracy involving the satellites, which were designed to prevent natural disasters on Earth. (cc)(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/153/thumbs/117980153_300x399.jpg" />
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190531025500 -0400" stop="20190531052000 -0400" channel="HBO Caribbean">
+    <title lang="en">All Eyez on Me</title>
+    <desc lang="en">This biopic of legendary rapper Tupac Shakur depicts his rise to fame, his political activism, his growth as an artist, his connection to Death Row Records CEO Suge Knight and his untimely death at the age of 25(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/616/thumbs/117100616_300x442.jpg" />
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190531052000 -0400" stop="20190531072500 -0400" channel="HBO Caribbean">
+    <title lang="en">Ocean's Eleven</title>
+    <desc lang="en">Remake of the 1960 Rat Pack caper about a daring heist involving an underground vault that serves three of Las Vegas' biggest casinos, and the ragtag squad of criminal specialists who try to pull it off. (cc)(n)</desc>
+    <date>2001</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/881/thumbs/11767881_300x400.jpg" />
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190531072500 -0400" stop="20190531083000 -0400" channel="HBO Caribbean">
+    <title lang="en">Gentleman Jack</title>
+    <desc lang="en">A series set in the complex, changing world of 1832 Halifax, West Yorkshire, focuses on landowner Anne Lister, who is determined to transform the fate of her faded ancestral home, Shibden Hall, by reopening the coal mines and marrying well. The charismatic, single-minded, swashbuckling Lister—who dresses head-to-toe in black and charms her way into high society—has no intention of marrying a man. (cc)(n)</desc>
+    <category lang="en">tvshow</category>
+    <icon src="http://static.tvgcdn.net/feed/1/638/thumbs/118984638_300x400.jpg" />
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20190531083000 -0400" stop="20190531102000 -0400" channel="HBO Caribbean">
+    <title lang="en">Dunkirk</title>
+    <desc lang="en">When 400,000 British and Allied troops end up trapped on the beaches of Dunkirk, France, following a catastrophic defeat during WWII, a number of civilian boats set out to rescue them before they are decimated by the approaching Nazi forces. (cc)(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/856/thumbs/117899856_300x450.jpg" />
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190531102000 -0400" stop="20190531115000 -0400" channel="HBO Caribbean">
+    <title lang="en">Ruben Blades is Not My Name</title>
+    <desc lang="en">This documentary spotlights the life and legacy of Panamian singer-songwriter Rubén Blades: a living Latin American legend and a winner of 17 Grammys. Apart from his contributions to Salsa music, it examines his life as a long-time New York City resident and the political ambitions he still harbours after his failed bid for the Panamanian presidency in 1994(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190531115000 -0400" stop="20190531142500 -0400" channel="HBO Caribbean">
+    <title lang="en">Avengers Infinity War</title>
+    <desc lang="en">(cc)(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/820/thumbs/118881820_300x400.jpg" />
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190531142500 -0400" stop="20190531161500 -0400" channel="HBO Caribbean">
+    <title lang="en">The LEGO NINJAGO Movie</title>
+    <desc lang="en">A team of six young ninjas lead double lives as ordinary high-school students. When they aren't attending class or studying, the group use their advanced fighting techniques and custom vehicles to defend the island of Ninjago from all kinds of evil. (cc)(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/471/thumbs/117829471_300x450.jpg" />
+    <rating system="MPAA">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20190531161500 -0400" stop="20190531175000 -0400" channel="HBO Caribbean">
+    <title lang="en">The House</title>
+    <desc lang="en">After realizing that they can't possibly afford the tuition for their daughter's college, a married couple team up with their eccentric neighbor to make money by running an illegal casino in the suburbs. Needless to say, things quickly spiral out of control as they deal with unruly guests while trying to keep their operation hidden from the police. (cc)(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/663/thumbs/117018663_300x444.jpg" />
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190531175000 -0400" stop="20190531201000 -0400" channel="HBO Caribbean">
+    <title lang="en">All the Money in the World</title>
+    <desc lang="en">Dramatization of the 1973 kidnapping of John Paul Getty III, the grandson of billionaire J. Paul Getty. John's mother Gail begs J. Paul Getty to pay the ransom; when he refuses, she decides to rescue her son with the help of Getty's business associate, an ex-CIA agent named Fletcher Chase. Inspired by historical events. Certain scenes, characters and dialogue have been fictionalized for dramatic purposes(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/933/thumbs/117787933_300x444.jpg" />
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190531201000 -0400" stop="20190531212000 -0400" channel="HBO Caribbean">
+    <title lang="en">Chernobyl</title>
+    <desc lang="en">A dramatization of the story of the 1986 nuclear accident in the Soviet Union, one of the worst man-made catastrophes in history, and of the brave men and women who sacrificed to save Europe from unimaginable disaster, all the while battling a culture of disinformation. (cc)(n)</desc>
+    <date>2019</date>
+    <category lang="en">tvshow</category>
+    <icon src="http://static.tvgcdn.net/mediabin/showcards/tvshows/900000-1000000/thumbs/1095584-chernobyl_300x400.png" />
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20190531212000 -0400" stop="20190601000000 -0400" channel="HBO Caribbean">
+    <title lang="en">Avengers Infinity War</title>
+    <desc lang="en">(cc)(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/820/thumbs/118881820_300x400.jpg" />
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190601000000 -0400" stop="20190601020000 -0400" channel="HBO Caribbean">
+    <title lang="en">Deadwood The Movie</title>
+    <desc lang="en">Past and present residents are reunited in 1889 to celebrate South Dakota's statehood. Former rivalries are reignited, alliances are tested and old wounds reopened as all are left to navigate the inevitable changes that modernity and time have wrought(n)</desc>
+    <date>2019</date>
+    <category lang="en">movie</category>
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190601020000 -0400" stop="20190601030000 -0400" channel="HBO Caribbean">
+    <title lang="en">Real Time With Bill Maher</title>
+    <desc lang="en">A talk show about current events with the former host of 'Politically Incorrect.' This weekly late-night forum is a virtual clone of 'P.I.,' with some Maher stand-up and a similarly diverse lineup of informed panelists, but this being HBO, the language is a good deal more blunt. In addition to the roundtable discussions, the show also features topical interviews with in-studio and satellite guests. (cc)(n)</desc>
+    <category lang="en">tvshow</category>
+    <icon src="http://static.tvgcdn.net/feed/1/645/thumbs/118846645_300x400.jpg" />
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20190601030000 -0400" stop="20190601045500 -0400" channel="HBO Caribbean">
+    <title lang="en">Fifty Shades Freed</title>
+    <desc lang="en">Anastasia Steele and Christian Grey are eager to begin their lives as husband and wife, and Christian even purchases a lavish home to make a fresh start. However, they soon find themselves facing both new temptations and threats from the past. (cc)(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/509/thumbs/118203509_300x450.jpg" />
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190601045500 -0400" stop="20190601064000 -0400" channel="HBO Caribbean">
+    <title lang="en">The First Purge</title>
+    <desc lang="en">A prequel recounting events that led up to the first Purge event. To push the crime rate below one percent for the rest of the year, the New Founding Fathers of America (NFFA) test a sociological theory that vents aggression for one night in one isolated community(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/109/thumbs/118546109_300x450.jpg" />
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190601064000 -0400" stop="20190601081000 -0400" channel="HBO Caribbean">
+    <title lang="en">Ruben Blades is Not My Name</title>
+    <desc lang="en">This documentary spotlights the life and legacy of Panamian singer-songwriter Rubén Blades: a living Latin American legend and a winner of 17 Grammys. Apart from his contributions to Salsa music, it examines his life as a long-time New York City resident and the political ambitions he still harbours after his failed bid for the Panamanian presidency in 1994(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190601081000 -0400" stop="20190601101500 -0400" channel="HBO Caribbean">
+    <title lang="en">The Taking of Pelham 1 2 3</title>
+    <desc lang="en">A New York City subway dispatcher draws on his extensive knowledge of the transportation system to thwart a criminal mastermind. Walter Garber is drifting through his daily routine when he receives word that a heavily armed gang of four has hijacked a subway train and taken all of the passengers hostage. Led by cunning thief Ryder, the gunmen will begin executing everyone aboard should the authorities fail to deliver a sizable ransom in just one hour. (cc)(n)</desc>
+    <date>2009</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/502/thumbs/115445502_300x444.jpg" />
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190601101500 -0400" stop="20190601122500 -0400" channel="HBO Caribbean">
+    <title lang="en">Justice League</title>
+    <desc lang="en">In the wake of Superman's death, Batman and Wonder Woman recruit superpowered individuals to defend humanity from an otherworldly threat called Steppenwolf. Together with their new allies—Cyborg, Aquaman and the Flash—they form the Justice League. (cc)(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/783/thumbs/117964783_300x444.jpg" />
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190601122500 -0400" stop="20190601143000 -0400" channel="HBO Caribbean">
+    <title lang="en">Ant-Man And The Wasp</title>
+    <desc lang="en">After the events of the Avengers' Civil War, Scott Lang is still struggling with his responsibilities as a superhero, when Dr. Hank Pym recruits him for another mission. This time, he must fight alongside Hope van Dyne, who's been outfitted with a suit of her own to become The Wasp. While facing off against superpowered criminal Ghost, the mismatched duo uncover secrets about the origins of their abilities. (cc)(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/90/thumbs/118589090_300x450.jpg" />
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190601143000 -0400" stop="20190601163000 -0400" channel="HBO Caribbean">
+    <title lang="en">Ocean's 8</title>
+    <desc lang="en">Debbie Ocean, sister of notorious thief Danny, is released from prison after five years and immediately assembles an all-female, eight-person crew with her best friend Lou to stage their greatest heist: stealing a $150 million necklace at the Met Gala. Ocean must corral an actress, a jeweler, a fashion designer, a con artist, a fence and a hacker to pull off the job. (cc)(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/400/thumbs/118191400_300x444.jpg" />
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190601163000 -0400" stop="20190601184000 -0400" channel="HBO Caribbean">
+    <title lang="en">Suicide Squad</title>
+    <desc lang="en">A team of incarcerated supervillains, including Deadshot, Harley Quinn, Enchantress, El Diablo and Killer Croc, are recruited by the government for a dangerous mission in exchange for reduced sentences. (cc)(n)</desc>
+    <date>2016</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/mediabin/showcards/movies/800000-899999/thumbs/897562-suicide-squad_300x400.png" />
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190601184000 -0400" stop="20190601205000 -0400" channel="HBO Caribbean">
+    <title lang="en">Justice League</title>
+    <desc lang="en">In the wake of Superman's death, Batman and Wonder Woman recruit superpowered individuals to defend humanity from an otherworldly threat called Steppenwolf. Together with their new allies—Cyborg, Aquaman and the Flash—they form the Justice League. (cc)(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/783/thumbs/117964783_300x444.jpg" />
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190601205000 -0400" stop="20190601230000 -0400" channel="HBO Caribbean">
+    <title lang="en">Ant-Man And The Wasp</title>
+    <desc lang="en">After the events of the Avengers' Civil War, Scott Lang is still struggling with his responsibilities as a superhero, when Dr. Hank Pym recruits him for another mission. This time, he must fight alongside Hope van Dyne, who's been outfitted with a suit of her own to become The Wasp. While facing off against superpowered criminal Ghost, the mismatched duo uncover secrets about the origins of their abilities. (cc)(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/90/thumbs/118589090_300x450.jpg" />
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190601230000 -0400" stop="20190602010000 -0400" channel="HBO Caribbean">
+    <title lang="en">Ocean's 8</title>
+    <desc lang="en">Debbie Ocean, sister of notorious thief Danny, is released from prison after five years and immediately assembles an all-female, eight-person crew with her best friend Lou to stage their greatest heist: stealing a $150 million necklace at the Met Gala. Ocean must corral an actress, a jeweler, a fashion designer, a con artist, a fence and a hacker to pull off the job. (cc)(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/400/thumbs/118191400_300x444.jpg" />
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190602010000 -0400" stop="20190602033000 -0400" channel="HBO Caribbean">
+    <title lang="en">Molly's Game</title>
+    <desc lang="en">Molly Bloom finds great success organizing high-stakes poker games for celebrity clients. But when her establishment is raided by the FBI for hosting members of the Russian mob, she turns to a charismatic lawyer to help keep her out of jail. (cc)(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/mediabin/showcards/movies/1m-1,1m/thumbs/1150222-mollys-game_300x400.png" />
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190602033000 -0400" stop="20190602053000 -0400" channel="HBO Caribbean">
+    <title lang="en">Atomic Blonde</title>
+    <desc lang="en">In this spy thriller set in 1989 Berlin, MI6 agent Lorraine Broughton must obtain a stolen list of Western spies while the city around her descends into chaos and revolution. In time, her pursuit leads her to uncover a much-larger conspiracy. (cc)(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/778/thumbs/117806778_300x400.jpg" />
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190602053000 -0400" stop="20190602072000 -0400" channel="HBO Caribbean">
+    <title lang="en">The Break-Up</title>
+    <desc lang="en">Battle-of-the-sexes romp about an estranged couple uncomfortably sharing their condo. (cc)(n)</desc>
+    <date>2006</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/687/thumbs/12064687_800x400.jpg" />
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190602072000 -0400" stop="20190602084500 -0400" channel="HBO Caribbean">
+    <title lang="en">Nightingale</title>
+    <desc lang="en">A man's mental health deteriorates at a rapid pace after an unspeakable tragedy inside his mother's home on a quiet suburban street(n)</desc>
+    <date>2014</date>
+    <category lang="en">movie</category>
+    <category lang="en">tvshow</category>
+    <icon src="http://static.tvgcdn.net/feed/1/366/thumbs/92684366_824x400.jpg" />
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190602084500 -0400" stop="20190602095500 -0400" channel="HBO Caribbean">
+    <title lang="en">Bill Maher Live From Oklahoma</title>
+    <desc lang="en">Comedian Bill Maher performs in Tulsa at the Brady Theater. Topics include the Trump presidency and his reactions to it. (cc)(n)</desc>
+    <date>2018</date>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20190602095500 -0400" stop="20190602120500 -0400" channel="HBO Caribbean">
+    <title lang="en">Suicide Squad</title>
+    <desc lang="en">A team of incarcerated supervillains, including Deadshot, Harley Quinn, Enchantress, El Diablo and Killer Croc, are recruited by the government for a dangerous mission in exchange for reduced sentences. (cc)(n)</desc>
+    <date>2016</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/mediabin/showcards/movies/800000-899999/thumbs/897562-suicide-squad_300x400.png" />
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190602120500 -0400" stop="20190602135500 -0400" channel="HBO Caribbean">
+    <title lang="en">Native Son</title>
+    <desc lang="en">The story of Bigger Thomas, a young African-American in Chicago who is hired as a chauffeur for affluent businessman Will Dalton. As Thomas enters this seductive new world of money and power, including a precarious relationship with Dalton's daughter, he faces unforeseen choices and perilous circumstances. (cc)(n)</desc>
+    <date>2019</date>
+    <category lang="en">movie</category>
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190602135500 -0400" stop="20190602160500 -0400" channel="HBO Caribbean">
+    <title lang="en">The Equalizer 2</title>
+    <desc lang="en">A retired CIA Black Ops operative seeks vengeance for his long-time friend's murder at any cost. His relentless, globe-trotting, and violent vigilante campaign takes him as far as Turkey, where he saves a girl who was kidnapped from her mother in America. (cc)(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/198/thumbs/118651198_300x400.jpg" />
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190602160500 -0400" stop="20190602174500 -0400" channel="HBO Caribbean">
+    <title lang="en">Proud Mary</title>
+    <desc lang="en">A hitwoman named Mary acts as a guardian angel for a young boy whose father she killed. When the youth starts working for a drug kingpin, Mary decides to intervene, setting off a chain of events that will shake Boston's criminal underworld to its core(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/118/thumbs/118056118_300x450.jpg" />
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190602174500 -0400" stop="20190602193500 -0400" channel="HBO Caribbean">
+    <title lang="en">Suburbicon</title>
+    <desc lang="en">In 1950s suburban America, a white businessman tries to pull off an insurance scam with the help of his wife's identical twin sister. Meanwhile, a black family who recently moved in next door are forced to confront the virulent racism of their community(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/496/thumbs/118033496_300x450.jpg" />
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190602193500 -0400" stop="20190602212000 -0400" channel="HBO Caribbean">
+    <title lang="en">Sniper Ultimate Kill</title>
+    <desc lang="en">A Colombian drug lord covertly employs a sniper known as the Devil who takes out adversaries one-by-one. The DEA sends agents to Colombia on orders to eliminate the Devil and extradite the kingpin, but the two have some surprises up their sleeves. (cc)(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190602212000 -0400" stop="20190602231200 -0400" channel="HBO Caribbean">
+    <title lang="en">The Hurricane Heist</title>
+    <desc lang="en">A group of calculating criminals plot to rob a U.S. Mint lying in the trajectory of a quickly approaching Category 5 hurricane. Now, a Treasury Agent and a meteorologist must work together to thwart their plans as the storm rages on(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/474/thumbs/118421474_300x450.jpg" />
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190602231200 -0400" stop="20190603005000 -0400" channel="HBO Caribbean">
+    <title lang="en">Breaking In</title>
+    <desc lang="en">A mother takes her teen children to her late father's high-security countryside home. Several men break in, hold the children hostage, and enable full security to lock her out. She breaks in, desperate to do whatever it takes for her kids' safety(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/43/thumbs/118404043_300x400.jpg" />
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190603005000 -0400" stop="20190603030000 -0400" channel="HBO Caribbean">
+    <title lang="en">The Equalizer 2</title>
+    <desc lang="en">A retired CIA Black Ops operative seeks vengeance for his long-time friend's murder at any cost. His relentless, globe-trotting, and violent vigilante campaign takes him as far as Turkey, where he saves a girl who was kidnapped from her mother in America. (cc)(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/198/thumbs/118651198_300x400.jpg" />
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190603030000 -0400" stop="20190603033000 -0400" channel="HBO Caribbean">
+    <title lang="en">Last Week Tonight With John Oliver</title>
+    <desc lang="en">John Oliver's satirical look at the previous week's news, politics and headlines. (cc)(n)</desc>
+    <date>2014</date>
+    <category lang="en">tvshow</category>
+    <icon src="http://static.tvgcdn.net/feed/1/179/thumbs/118807179_300x400.jpg" />
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20190603033000 -0400" stop="20190603050500 -0400" channel="HBO Caribbean">
+    <title lang="en">Proud Mary</title>
+    <desc lang="en">A hitwoman named Mary acts as a guardian angel for a young boy whose father she killed. When the youth starts working for a drug kingpin, Mary decides to intervene, setting off a chain of events that will shake Boston's criminal underworld to its core(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/118/thumbs/118056118_300x450.jpg" />
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190603050500 -0400" stop="20190603065500 -0400" channel="HBO Caribbean">
+    <title lang="en">Suburbicon</title>
+    <desc lang="en">In 1950s suburban America, a white businessman tries to pull off an insurance scam with the help of his wife's identical twin sister. Meanwhile, a black family who recently moved in next door are forced to confront the virulent racism of their community(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/496/thumbs/118033496_300x450.jpg" />
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190603065500 -0400" stop="20190603083500 -0400" channel="HBO Caribbean">
+    <title lang="en">Sniper Ultimate Kill</title>
+    <desc lang="en">A Colombian drug lord covertly employs a sniper known as the Devil who takes out adversaries one-by-one. The DEA sends agents to Colombia on orders to eliminate the Devil and extradite the kingpin, but the two have some surprises up their sleeves. (cc)(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190603083500 -0400" stop="20190603102500 -0400" channel="HBO Caribbean">
+    <title lang="en">The Hurricane Heist</title>
+    <desc lang="en">A group of calculating criminals plot to rob a U.S. Mint lying in the trajectory of a quickly approaching Category 5 hurricane. Now, a Treasury Agent and a meteorologist must work together to thwart their plans as the storm rages on(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/474/thumbs/118421474_300x450.jpg" />
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190603102500 -0400" stop="20190603120500 -0400" channel="HBO Caribbean">
+    <title lang="en">Sully</title>
+    <desc lang="en">This biopic of airline pilot Chesley "Sully" Sullenberger depicts his successful emergency landing of an Airbus A320 on the Hudson River in January 2009. In the aftermath of this unprecedented feat, he must endure the weight of sudden fame, second-guessing by investigators and his own doubts about his actions that fateful day. (cc)(n)</desc>
+    <date>2016</date>
+    <category lang="en">movie</category>
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190603120500 -0400" stop="20190603135400 -0400" channel="HBO Caribbean">
+    <title lang="en">The Mask</title>
+    <desc lang="en">A meek bank official transforms into a super-suave dude when he puts on a mysterious mask that he has found(n)</desc>
+    <date>1994</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/766/thumbs/96105766_300x400.jpg" />
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190603135400 -0400" stop="20190603161300 -0400" channel="HBO Caribbean">
+    <title lang="en">It</title>
+    <desc lang="en">In a small town in 1989 Maine, seven bullied kids discover that a malevolent force is preying on the local children. When they realize that the town's adults can't protect them, they band together to destroy the monster, a killer clown called Pennywise. (cc)(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/168/thumbs/117843168_300x450.jpg" />
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190603161300 -0400" stop="20190603183000 -0400" channel="HBO Caribbean">
+    <title lang="en">All the Money in the World</title>
+    <desc lang="en">Dramatization of the 1973 kidnapping of John Paul Getty III, the grandson of billionaire J. Paul Getty. John's mother Gail begs J. Paul Getty to pay the ransom; when he refuses, she decides to rescue her son with the help of Getty's business associate, an ex-CIA agent named Fletcher Chase. Inspired by historical events. Certain scenes, characters and dialogue have been fictionalized for dramatic purposes(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/933/thumbs/117787933_300x444.jpg" />
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190603183000 -0400" stop="20190603190000 -0400" channel="HBO Caribbean">
+    <title lang="en">Last Week Tonight With John Oliver</title>
+    <desc lang="en">John Oliver's satirical look at the previous week's news, politics and headlines. (cc)(n)</desc>
+    <date>2014</date>
+    <category lang="en">tvshow</category>
+    <icon src="http://static.tvgcdn.net/feed/1/179/thumbs/118807179_300x400.jpg" />
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20190603190000 -0400" stop="20190603210000 -0400" channel="HBO Caribbean">
+    <title lang="en">Mamma Mia! Here We Go Again</title>
+    <desc lang="en">A woman grapples with running her mother's villa while also expecting her first child and worries that she won't be able to handle everything on her own, so she enlists two of her mother's friends for assurance, help and guidance. Along the way, she learns more about her mother's past and how faces a surprise visit from someone she's never met: her own grandmother. (cc)(n)</desc>
+    <date>2018</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/377/thumbs/118573377_300x450.jpg" />
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190603210000 -0400" stop="20190603224000 -0400" channel="HBO Caribbean">
+    <title lang="en">Sully</title>
+    <desc lang="en">This biopic of airline pilot Chesley "Sully" Sullenberger depicts his successful emergency landing of an Airbus A320 on the Hudson River in January 2009. In the aftermath of this unprecedented feat, he must endure the weight of sudden fame, second-guessing by investigators and his own doubts about his actions that fateful day. (cc)(n)</desc>
+    <date>2016</date>
+    <category lang="en">movie</category>
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190603224000 -0400" stop="20190604010000 -0400" channel="HBO Caribbean">
+    <title lang="en">It</title>
+    <desc lang="en">In a small town in 1989 Maine, seven bullied kids discover that a malevolent force is preying on the local children. When they realize that the town's adults can't protect them, they band together to destroy the monster, a killer clown called Pennywise. (cc)(n)</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <icon src="http://static.tvgcdn.net/feed/1/168/thumbs/117843168_300x450.jpg" />
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
   </programme>
   <programme start="20190529195500 -0400" stop="20190529220000 -0400" channel="HBO 2 [Panamerican English]">
     <title lang="en">The Hitman's Bodyguard</title>
