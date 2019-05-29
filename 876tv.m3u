@@ -23,9 +23,7 @@ http://161.0.157.38/PLTV/88888888/224/3221226843/index.m3u8
 http://espn.tmedia.me/cache/cc.m3u8
 #EXTINF:-1 tvg-id="	DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Discovery_channel.png" group-title="Documentary",Discovery Channel HD
 http://80.80.160.168/live/8/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Caribbean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="",HBO Caribbean
-http://161.0.157.5/PLTV/88888888/224/3221226122/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1 US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="US",HBO
+#EXTINF:-1 tvg-id="" tvg-name="HBO Latin America East [English]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="US",HBO Latin America East [English]
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1 tvg-id="HBOLatinAmerica.pa" tvg-name="HBO 2 [Panamerican English]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="US Movies",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
