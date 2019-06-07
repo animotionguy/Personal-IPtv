@@ -31,7 +31,7 @@ http://espn.tmedia.me/cache/espn1_540.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_02/large.fox-cinema-blanco.png.8267a80d9cea1d104e0a5269171d158b.png" group-title="US",Fox Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-comedy-blanco.png.f720b00ef28d91a6cd6f93d8b2c73a74.png" group-title="US",Fox Premium Comedy
+#EXTINF:-1 tvg-name="Fox Premium Comedy HDTV - English" tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-comedy-blanco.png.f720b00ef28d91a6cd6f93d8b2c73a74.png" group-title="US",FoxFox Premium Comedy HDTV - English
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/93SIHbu.png" group-title="US",Fox Premium Movies
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
